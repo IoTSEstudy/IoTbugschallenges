@@ -1,0 +1,2732 @@
+[
+    {
+        "full-name": "netdata/netdata",
+        "URL": "https://github.com/netdata/netdata",
+        "Data-Points-Count": 1001,
+        "stars": 45026,
+        "forks": 4089,
+        "language": "C",
+        "is-fork": false,
+        "description": "Real-time performance monitoring, done right! https://my-netdata.io/"
+    },
+    {
+        "full-name": "home-assistant/home-assistant",
+        "URL": "https://github.com/home-assistant/home-assistant",
+        "Data-Points-Count": 236,
+        "stars": 31662,
+        "forks": 9549,
+        "language": "Python",
+        "is-fork": false,
+        "description": ":house_with_garden: Open source home automation that puts local control and privacy first"
+    },
+    {
+        "full-name": "Kong/kong",
+        "URL": "https://github.com/Kong/kong",
+        "Data-Points-Count": 0,
+        "stars": 24937,
+        "forks": 3184,
+        "language": "Lua",
+        "is-fork": false,
+        "description": "🦍 The Cloud-Native API Gateway "
+    },
+    {
+        "full-name": "rwaldron/johnny-five",
+        "URL": "https://github.com/rwaldron/johnny-five",
+        "Data-Points-Count": 36,
+        "stars": 11299,
+        "forks": 1674,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "JavaScript Robotics and IoT programming framework, developed at Bocoup."
+    },
+    {
+        "full-name": "amark/gun",
+        "URL": "https://github.com/amark/gun",
+        "Data-Points-Count": 0,
+        "stars": 11286,
+        "forks": 712,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "A realtime, decentralized, offline-first, graph protocol to sync the web."
+    },
+    {
+        "full-name": "taosdata/TDengine",
+        "URL": "https://github.com/taosdata/TDengine",
+        "Data-Points-Count": 183,
+        "stars": 10906,
+        "forks": 2882,
+        "language": "C",
+        "is-fork": false,
+        "description": "An open-source big data platform designed and optimized for the Internet of Things (IoT)."
+    },
+    {
+        "full-name": "arendst/Tasmota",
+        "URL": "https://github.com/arendst/Tasmota",
+        "Data-Points-Count": 256,
+        "stars": 9766,
+        "forks": 2274,
+        "language": "C++",
+        "is-fork": false,
+        "description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX"
+    },
+    {
+        "full-name": "timescale/timescaledb",
+        "URL": "https://github.com/timescale/timescaledb",
+        "Data-Points-Count": 261,
+        "stars": 8222,
+        "forks": 443,
+        "language": "C",
+        "is-fork": false,
+        "description": "An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension."
+    },
+    {
+        "full-name": "hybridgroup/gobot",
+        "URL": "https://github.com/hybridgroup/gobot",
+        "Data-Points-Count": 28,
+        "stars": 6253,
+        "forks": 780,
+        "language": "Go",
+        "is-fork": false,
+        "description": "Golang framework for robotics, drones, and the Internet of Things (IoT)"
+    },
+    {
+        "full-name": "emqx/emqx",
+        "URL": "https://github.com/emqx/emqx",
+        "Data-Points-Count": 250,
+        "stars": 5638,
+        "forks": 1055,
+        "language": "Erlang",
+        "is-fork": false,
+        "description": "EMQ X Broker - Scalable Distributed MQTT Message Broker for IoT in 5G Era"
+    },
+    {
+        "full-name": "thingsboard/thingsboard",
+        "URL": "https://github.com/thingsboard/thingsboard",
+        "Data-Points-Count": 3,
+        "stars": 5183,
+        "forks": 1756,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Open-source IoT Platform - Device management, data collection, processing and visualization."
+    },
+    {
+        "full-name": "jopohl/urh",
+        "URL": "https://github.com/jopohl/urh",
+        "Data-Points-Count": 69,
+        "stars": 4753,
+        "forks": 470,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Universal Radio Hacker: investigate wireless protocols like a boss 📡😎"
+    },
+    {
+        "full-name": "processone/ejabberd",
+        "URL": "https://github.com/processone/ejabberd",
+        "Data-Points-Count": 0,
+        "stars": 4420,
+        "forks": 1314,
+        "language": "Erlang",
+        "is-fork": false,
+        "description": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)"
+    },
+    {
+        "full-name": "serialport/node-serialport",
+        "URL": "https://github.com/serialport/node-serialport",
+        "Data-Points-Count": 59,
+        "stars": 4294,
+        "forks": 861,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "Access serial ports with JavaScript. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!"
+    },
+    {
+        "full-name": "bblanchon/ArduinoJson",
+        "URL": "https://github.com/bblanchon/ArduinoJson",
+        "Data-Points-Count": 123,
+        "stars": 4250,
+        "forks": 812,
+        "language": "C++",
+        "is-fork": false,
+        "description": "📟 JSON library for Arduino and embedded C++. Simple and efficient."
+    },
+    {
+        "full-name": "RT-Thread/rt-thread",
+        "URL": "https://github.com/RT-Thread/rt-thread",
+        "Data-Points-Count": 11,
+        "stars": 4032,
+        "forks": 2560,
+        "language": "C",
+        "is-fork": false,
+        "description": "RT-Thread is an open source IoT operating system from China."
+    },
+    {
+        "full-name": "jerryscript-project/jerryscript",
+        "URL": "https://github.com/jerryscript-project/jerryscript",
+        "Data-Points-Count": 1143,
+        "stars": 3915,
+        "forks": 463,
+        "language": "C",
+        "is-fork": false,
+        "description": "Ultra-lightweight JavaScript engine for the Internet of Things."
+    },
+    {
+        "full-name": "platformio/platformio-core",
+        "URL": "https://github.com/platformio/platformio-core",
+        "Data-Points-Count": 326,
+        "stars": 3791,
+        "forks": 489,
+        "language": "Python",
+        "is-fork": false,
+        "description": "PlatformIO is a new generation ecosystem for embedded development :alien:"
+    },
+    {
+        "full-name": "hybridgroup/cylon",
+        "URL": "https://github.com/hybridgroup/cylon",
+        "Data-Points-Count": 3,
+        "stars": 3676,
+        "forks": 339,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "JavaScript framework for robotics, drones, and the Internet of Things (IoT)"
+    },
+    {
+        "full-name": "RIOT-OS/RIOT",
+        "URL": "https://github.com/RIOT-OS/RIOT",
+        "Data-Points-Count": 0,
+        "stars": 3195,
+        "forks": 1522,
+        "language": "C",
+        "is-fork": false,
+        "description": "RIOT -  The friendly OS for IoT"
+    },
+    {
+        "full-name": "raysan5/raylib",
+        "URL": "https://github.com/raysan5/raylib",
+        "Data-Points-Count": 42,
+        "stars": 3005,
+        "forks": 364,
+        "language": "C",
+        "is-fork": false,
+        "description": "A simple and easy-to-use library to enjoy videogames programming"
+    },
+    {
+        "full-name": "ubuntu/microk8s",
+        "URL": "https://github.com/ubuntu/microk8s",
+        "Data-Points-Count": 7,
+        "stars": 2771,
+        "forks": 275,
+        "language": "Python",
+        "is-fork": false,
+        "description": "MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge."
+    },
+    {
+        "full-name": "crate/crate",
+        "URL": "https://github.com/crate/crate",
+        "Data-Points-Count": 104,
+        "stars": 2667,
+        "forks": 365,
+        "language": "Java",
+        "is-fork": false,
+        "description": "CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time."
+    },
+    {
+        "full-name": "blynkkk/blynk-library",
+        "URL": "https://github.com/blynkkk/blynk-library",
+        "Data-Points-Count": 67,
+        "stars": 2554,
+        "forks": 732,
+        "language": "C++",
+        "is-fork": false,
+        "description": "Blynk library for embedded hardware. Works with Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, Energia, ARM mbed, etc."
+    },
+    {
+        "full-name": "CCOSTAN/Home-AssistantConfig",
+        "URL": "https://github.com/CCOSTAN/Home-AssistantConfig",
+        "Data-Points-Count": 6,
+        "stars": 2553,
+        "forks": 251,
+        "language": "Python",
+        "is-fork": false,
+        "description": ":house: Home Assistant configuration & Documentation for my Smart House.  Write ups, videos, part lists and links throughout. Be sure to :star: it. Updated FREQUENTLY!"
+    },
+    {
+        "full-name": "kubeedge/kubeedge",
+        "URL": "https://github.com/kubeedge/kubeedge",
+        "Data-Points-Count": 0,
+        "stars": 2219,
+        "forks": 559,
+        "language": "Go",
+        "is-fork": false,
+        "description": "Kubernetes Native Edge Computing Framework (project under CNCF)"
+    },
+    {
+        "full-name": "openthread/openthread",
+        "URL": "https://github.com/openthread/openthread",
+        "Data-Points-Count": 1138,
+        "stars": 2106,
+        "forks": 666,
+        "language": "C++",
+        "is-fork": false,
+        "description": "OpenThread released by Google is an open-source implementation of the Thread networking protocol"
+    },
+    {
+        "full-name": "vernemq/vernemq",
+        "URL": "https://github.com/vernemq/vernemq",
+        "Data-Points-Count": 90,
+        "stars": 2010,
+        "forks": 226,
+        "language": "Erlang",
+        "is-fork": false,
+        "description": "A distributed MQTT message broker based on Erlang/OTP"
+    },
+    {
+        "full-name": "Picovoice/porcupine",
+        "URL": "https://github.com/Picovoice/porcupine",
+        "Data-Points-Count": 0,
+        "stars": 1991,
+        "forks": 252,
+        "language": "Python",
+        "is-fork": false,
+        "description": "On-device wake word detection powered by deep learning."
+    },
+    {
+        "full-name": "cesanta/mongoose-os",
+        "URL": "https://github.com/cesanta/mongoose-os",
+        "Data-Points-Count": 7,
+        "stars": 1929,
+        "forks": 383,
+        "language": "C",
+        "is-fork": false,
+        "description": "Mongoose OS - an IoT Firmware Development Framework. Supported microcontrollers: ESP32, ESP8266, CC3220, CC3200, STM32F4, STM32L4, STM32F7. Amazon AWS IoT, Microsoft Azure, Google IoT Core integrated. Code in C or JavaScript."
+    },
+    {
+        "full-name": "gioblu/PJON",
+        "URL": "https://github.com/gioblu/PJON",
+        "Data-Points-Count": 65,
+        "stars": 1915,
+        "forks": 189,
+        "language": "C++",
+        "is-fork": false,
+        "description": "With PJON you build networks of devices for free with no need of a cloud service or a centralised platform you don’t fully control."
+    },
+    {
+        "full-name": "billz/raspap-webgui",
+        "URL": "https://github.com/billz/raspap-webgui",
+        "Data-Points-Count": 0,
+        "stars": 1912,
+        "forks": 477,
+        "language": "PHP",
+        "is-fork": false,
+        "description": "Simple AP setup & WiFi management for the Raspberry Pi"
+    },
+    {
+        "full-name": "tock/tock",
+        "URL": "https://github.com/tock/tock",
+        "Data-Points-Count": 94,
+        "stars": 1868,
+        "forks": 240,
+        "language": "Rust",
+        "is-fork": false,
+        "description": "A secure embedded operating system for microcontrollers"
+    },
+    {
+        "full-name": "wasm3/wasm3",
+        "URL": "https://github.com/wasm3/wasm3",
+        "Data-Points-Count": 4,
+        "stars": 1776,
+        "forks": 63,
+        "language": "C",
+        "is-fork": false,
+        "description": "🚀 The fastest WebAssembly interpreter"
+    },
+    {
+        "full-name": "blynkkk/blynk-server",
+        "URL": "https://github.com/blynkkk/blynk-server",
+        "Data-Points-Count": 300,
+        "stars": 1717,
+        "forks": 616,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Blynk is an Internet of Things Platform aimed to simplify building mobile and web applications for the Internet of Things. Easily connect 400+ hardware models like Arduino, ESP8266, ESP32, Raspberry Pi and similar MCUs and drag-n-drop IOT mobile apps for iOS and Android in 5 minutes"
+    },
+    {
+        "full-name": "eclipse/paho.mqtt.android",
+        "URL": "https://github.com/eclipse/paho.mqtt.android",
+        "Data-Points-Count": 87,
+        "stars": 1716,
+        "forks": 538,
+        "language": "Java",
+        "is-fork": false,
+        "description": "MQTT Android"
+    },
+    {
+        "full-name": "lelylan/lelylan",
+        "URL": "https://github.com/lelylan/lelylan",
+        "Data-Points-Count": 41,
+        "stars": 1465,
+        "forks": 91,
+        "language": null,
+        "is-fork": false,
+        "description": "Open Source Lightweight Microservices Architecture for the Internet of Things. For developers."
+    },
+    {
+        "full-name": "esphome/esphome",
+        "URL": "https://github.com/esphome/esphome",
+        "Data-Points-Count": 0,
+        "stars": 1442,
+        "forks": 345,
+        "language": "C++",
+        "is-fork": false,
+        "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems."
+    },
+    {
+        "full-name": "TIBCOSoftware/flogo",
+        "URL": "https://github.com/TIBCOSoftware/flogo",
+        "Data-Points-Count": 0,
+        "stars": 1356,
+        "forks": 192,
+        "language": "CSS",
+        "is-fork": false,
+        "description": "Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps."
+    },
+    {
+        "full-name": "ct-Open-Source/tuya-convert",
+        "URL": "https://github.com/ct-Open-Source/tuya-convert",
+        "Data-Points-Count": 3,
+        "stars": 1328,
+        "forks": 192,
+        "language": "Python",
+        "is-fork": false,
+        "description": "A collection of scripts to flash Tuya IoT devices to alternative firmwares"
+    },
+    {
+        "full-name": "GladysAssistant/Gladys",
+        "URL": "https://github.com/GladysAssistant/Gladys",
+        "Data-Points-Count": 52,
+        "stars": 1326,
+        "forks": 191,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "A privacy-first, open-source home assistant"
+    },
+    {
+        "full-name": "dgiese/dustcloud",
+        "URL": "https://github.com/dgiese/dustcloud",
+        "Data-Points-Count": 0,
+        "stars": 1314,
+        "forks": 195,
+        "language": "C",
+        "is-fork": false,
+        "description": "Xiaomi Smart Home Device Reverse Engineering and Hacking"
+    },
+    {
+        "full-name": "chkr1011/MQTTnet",
+        "URL": "https://github.com/chkr1011/MQTTnet",
+        "Data-Points-Count": 58,
+        "stars": 1314,
+        "forks": 378,
+        "language": "C#",
+        "is-fork": false,
+        "description": "MQTTnet is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation from http://mqtt.org/."
+    },
+    {
+        "full-name": "bytecodealliance/wasm-micro-runtime",
+        "URL": "https://github.com/bytecodealliance/wasm-micro-runtime",
+        "Data-Points-Count": 0,
+        "stars": 1296,
+        "forks": 97,
+        "language": "C",
+        "is-fork": false,
+        "description": "WebAssembly Micro Runtime (WAMR)"
+    },
+    {
+        "full-name": "baetyl/baetyl",
+        "URL": "https://github.com/baetyl/baetyl",
+        "Data-Points-Count": 40,
+        "stars": 1257,
+        "forks": 244,
+        "language": "Go",
+        "is-fork": false,
+        "description": "Extend cloud computing, data and service seamlessly to edge devices."
+    },
+    {
+        "full-name": "eclipse/paho.mqtt.java",
+        "URL": "https://github.com/eclipse/paho.mqtt.java",
+        "Data-Points-Count": 123,
+        "stars": 1153,
+        "forks": 569,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Eclipse Paho Java MQTT client library.  Paho is an Eclipse IoT project."
+    },
+    {
+        "full-name": "SmingHub/Sming",
+        "URL": "https://github.com/SmingHub/Sming",
+        "Data-Points-Count": 61,
+        "stars": 1130,
+        "forks": 322,
+        "language": "C++",
+        "is-fork": false,
+        "description": "Sming - Open Source framework for high efficiency native ESP8266 development"
+    },
+    {
+        "full-name": "griddb/griddb_nosql",
+        "URL": "https://github.com/griddb/griddb_nosql",
+        "Data-Points-Count": 0,
+        "stars": 1118,
+        "forks": 2313,
+        "language": "C++",
+        "is-fork": false,
+        "description": "high performance, high scalability and high reliability database for IoT & big data"
+    },
+    {
+        "full-name": "homieiot/homie-esp8266",
+        "URL": "https://github.com/homieiot/homie-esp8266",
+        "Data-Points-Count": 94,
+        "stars": 1109,
+        "forks": 246,
+        "language": "HTML",
+        "is-fork": false,
+        "description": "💡 ESP8266 framework for Homie, a lightweight MQTT convention for the IoT"
+    },
+    {
+        "full-name": "brocaar/chirpstack-network-server",
+        "URL": "https://github.com/brocaar/chirpstack-network-server",
+        "Data-Points-Count": 14,
+        "stars": 1103,
+        "forks": 409,
+        "language": "Go",
+        "is-fork": false,
+        "description": "ChirpStack Network Server is an open-source LoRaWAN network-server."
+    },
+    {
+        "full-name": "kamailio/kamailio",
+        "URL": "https://github.com/kamailio/kamailio",
+        "Data-Points-Count": 72,
+        "stars": 1097,
+        "forks": 545,
+        "language": "C",
+        "is-fork": false,
+        "description": "Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms -"
+    },
+    {
+        "full-name": "uTensor/uTensor",
+        "URL": "https://github.com/uTensor/uTensor",
+        "Data-Points-Count": 5,
+        "stars": 1085,
+        "forks": 143,
+        "language": "C++",
+        "is-fork": false,
+        "description": "TinyML AI inference library"
+    },
+    {
+        "full-name": "felHR85/UsbSerial",
+        "URL": "https://github.com/felHR85/UsbSerial",
+        "Data-Points-Count": 2,
+        "stars": 1047,
+        "forks": 386,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Usb serial controller for Android"
+    },
+    {
+        "full-name": "mysensors/MySensors",
+        "URL": "https://github.com/mysensors/MySensors",
+        "Data-Points-Count": 85,
+        "stars": 1046,
+        "forks": 824,
+        "language": "C++",
+        "is-fork": false,
+        "description": "MySensors library and examples"
+    },
+    {
+        "full-name": "timdorr/tesla-api",
+        "URL": "https://github.com/timdorr/tesla-api",
+        "Data-Points-Count": 2,
+        "stars": 994,
+        "forks": 376,
+        "language": "Ruby",
+        "is-fork": false,
+        "description": "🚘 A Ruby gem and unofficial documentation of Tesla's JSON API for the Model S, Model X, and Model 3."
+    },
+    {
+        "full-name": "Screenly/screenly-ose",
+        "URL": "https://github.com/Screenly/screenly-ose",
+        "Data-Points-Count": 81,
+        "stars": 994,
+        "forks": 409,
+        "language": "CSS",
+        "is-fork": false,
+        "description": "The most popular digital signage project on Github!"
+    },
+    {
+        "full-name": "particle-iot/device-os",
+        "URL": "https://github.com/particle-iot/device-os",
+        "Data-Points-Count": 327,
+        "stars": 928,
+        "forks": 501,
+        "language": "C",
+        "is-fork": false,
+        "description": "Device OS (Firmware) for Particle Devices"
+    },
+    {
+        "full-name": "armink/EasyFlash",
+        "URL": "https://github.com/armink/EasyFlash",
+        "Data-Points-Count": 0,
+        "stars": 918,
+        "forks": 427,
+        "language": "C",
+        "is-fork": false,
+        "description": "Lightweight IoT device information storage solution. Make the flash to be a small KV database. | 轻量级物联网设备信息存储方案，让 Flash 成为小型 KV 数据库"
+    },
+    {
+        "full-name": "fivdi/onoff",
+        "URL": "https://github.com/fivdi/onoff",
+        "Data-Points-Count": 5,
+        "stars": 909,
+        "forks": 98,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "GPIO access and interrupt detection with Node.js"
+    },
+    {
+        "full-name": "eclipse/smarthome",
+        "URL": "https://github.com/eclipse/smarthome",
+        "Data-Points-Count": 589,
+        "stars": 857,
+        "forks": 847,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Eclipse SmartHome™ project"
+    },
+    {
+        "full-name": "iotaledger/iota.js",
+        "URL": "https://github.com/iotaledger/iota.js",
+        "Data-Points-Count": 0,
+        "stars": 799,
+        "forks": 266,
+        "language": "TypeScript",
+        "is-fork": false,
+        "description": "IOTA JavaScript monorepo"
+    },
+    {
+        "full-name": "nextcloud/nextcloud-snap",
+        "URL": "https://github.com/nextcloud/nextcloud-snap",
+        "Data-Points-Count": 38,
+        "stars": 783,
+        "forks": 128,
+        "language": "Shell",
+        "is-fork": false,
+        "description": "☁️📦 Nextcloud packaged as a snap"
+    },
+    {
+        "full-name": "kuzzleio/kuzzle",
+        "URL": "https://github.com/kuzzleio/kuzzle",
+        "Data-Points-Count": 176,
+        "stars": 767,
+        "forks": 70,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -"
+    },
+    {
+        "full-name": "eclipse/paho.mqtt.c",
+        "URL": "https://github.com/eclipse/paho.mqtt.c",
+        "Data-Points-Count": 67,
+        "stars": 753,
+        "forks": 539,
+        "language": "C",
+        "is-fork": false,
+        "description": "An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS."
+    },
+    {
+        "full-name": "home-assistant/operating-system",
+        "URL": "https://github.com/home-assistant/operating-system",
+        "Data-Points-Count": 3,
+        "stars": 730,
+        "forks": 224,
+        "language": "Makefile",
+        "is-fork": false,
+        "description": ":beginner: Home Assistant Operating System"
+    },
+    {
+        "full-name": "opendatacam/opendatacam",
+        "URL": "https://github.com/opendatacam/opendatacam",
+        "Data-Points-Count": 1,
+        "stars": 716,
+        "forks": 117,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "An open source tool to quantify the world"
+    },
+    {
+        "full-name": "Bodmer/TFT_eSPI",
+        "URL": "https://github.com/Bodmer/TFT_eSPI",
+        "Data-Points-Count": 0,
+        "stars": 704,
+        "forks": 218,
+        "language": "C",
+        "is-fork": false,
+        "description": "Arduino and PlatformIO IDE compatible TFT library optimised for the STM32, ESP8266 and ESP32 that supports different driver chips"
+    },
+    {
+        "full-name": "eclipse/paho.mqtt.embedded-c",
+        "URL": "https://github.com/eclipse/paho.mqtt.embedded-c",
+        "Data-Points-Count": 19,
+        "stars": 676,
+        "forks": 455,
+        "language": "C",
+        "is-fork": false,
+        "description": "Paho MQTT C client library for embedded systems.  Paho is an Eclipse IoT project (https://iot.eclipse.org/)"
+    },
+    {
+        "full-name": "mpaland/printf",
+        "URL": "https://github.com/mpaland/printf",
+        "Data-Points-Count": 13,
+        "stars": 666,
+        "forks": 108,
+        "language": "C",
+        "is-fork": false,
+        "description": "Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing."
+    },
+    {
+        "full-name": "ggravlingen/pytradfri",
+        "URL": "https://github.com/ggravlingen/pytradfri",
+        "Data-Points-Count": 4,
+        "stars": 663,
+        "forks": 112,
+        "language": "Python",
+        "is-fork": false,
+        "description": "IKEA Trådfri/Tradfri API. Control and observe your lights from Python. Examples available. On pypi. Sans-io."
+    },
+    {
+        "full-name": "pliablepixels/zmNinja",
+        "URL": "https://github.com/pliablepixels/zmNinja",
+        "Data-Points-Count": 200,
+        "stars": 635,
+        "forks": 196,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "High performance, cross platform ionic app for Home/Commerical Security Surveillance using ZoneMinder"
+    },
+    {
+        "full-name": "sitewhere/sitewhere",
+        "URL": "https://github.com/sitewhere/sitewhere",
+        "Data-Points-Count": 144,
+        "stars": 619,
+        "forks": 275,
+        "language": "Java",
+        "is-fork": false,
+        "description": "SiteWhere is an industrial strength open-source application enablement platform for the Internet of Things (IoT). It provides a multi-tenant microservice-based infrastructure that includes device/asset management, data ingestion, big-data storage, and integration through a modern, scalable architecture.  SiteWhere provides REST APIs for all system functionality.  SiteWhere provides SDKs for many common device platforms including Android, iOS, Arduino, and any Java-capable platform such as Raspberry Pi rapidly accelerating the speed of innovation."
+    },
+    {
+        "full-name": "eclipse/upm",
+        "URL": "https://github.com/eclipse/upm",
+        "Data-Points-Count": 30,
+        "stars": 612,
+        "forks": 394,
+        "language": "C++",
+        "is-fork": false,
+        "description": "UPM is a high level repository that provides software drivers for a wide variety of commonly used sensors and actuators. These software drivers interact with the underlying hardware platform through calls to MRAA APIs."
+    },
+    {
+        "full-name": "balena-io/wifi-connect",
+        "URL": "https://github.com/balena-io/wifi-connect",
+        "Data-Points-Count": 21,
+        "stars": 606,
+        "forks": 205,
+        "language": "Rust",
+        "is-fork": false,
+        "description": "Easy WiFi setup for Linux devices from your mobile phone or laptop"
+    },
+    {
+        "full-name": "VolantMQ/volantmq",
+        "URL": "https://github.com/VolantMQ/volantmq",
+        "Data-Points-Count": 4,
+        "stars": 606,
+        "forks": 107,
+        "language": "Go",
+        "is-fork": false,
+        "description": "High-Performance MQTT Server"
+    },
+    {
+        "full-name": "fivdi/pigpio",
+        "URL": "https://github.com/fivdi/pigpio",
+        "Data-Points-Count": 1,
+        "stars": 604,
+        "forks": 62,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "Fast GPIO, PWM, servo control, state change notification and interrupt handling with Node.js on the Raspberry Pi"
+    },
+    {
+        "full-name": "Nekmo/amazon-dash",
+        "URL": "https://github.com/Nekmo/amazon-dash",
+        "Data-Points-Count": 13,
+        "stars": 600,
+        "forks": 51,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Hack your Amazon Dash to run what you want."
+    },
+    {
+        "full-name": "mratsim/Arraymancer",
+        "URL": "https://github.com/mratsim/Arraymancer",
+        "Data-Points-Count": 17,
+        "stars": 595,
+        "forks": 58,
+        "language": "Nim",
+        "is-fork": false,
+        "description": "A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU and embedded devices via OpenMP, Cuda and OpenCL backends"
+    },
+    {
+        "full-name": "codetheweb/tuyapi",
+        "URL": "https://github.com/codetheweb/tuyapi",
+        "Data-Points-Count": 13,
+        "stars": 563,
+        "forks": 106,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "🌧 An easy-to-use API for devices that use Tuya's cloud services. Documentation: https://codetheweb.github.io/tuyapi."
+    },
+    {
+        "full-name": "256dpi/arduino-mqtt",
+        "URL": "https://github.com/256dpi/arduino-mqtt",
+        "Data-Points-Count": 3,
+        "stars": 553,
+        "forks": 146,
+        "language": "C",
+        "is-fork": false,
+        "description": "MQTT library for Arduino"
+    },
+    {
+        "full-name": "esphome/esphome-core",
+        "URL": "https://github.com/esphome/esphome-core",
+        "Data-Points-Count": 0,
+        "stars": 552,
+        "forks": 113,
+        "language": "C++",
+        "is-fork": false,
+        "description": "🚨 No longer used 🚨 - The C++ framework behind ESPHome"
+    },
+    {
+        "full-name": "yodaos-project/ShadowNode",
+        "URL": "https://github.com/yodaos-project/ShadowNode",
+        "Data-Points-Count": 40,
+        "stars": 537,
+        "forks": 45,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "Use Node.js in your end devices :)"
+    },
+    {
+        "full-name": "homieiot/convention",
+        "URL": "https://github.com/homieiot/convention",
+        "Data-Points-Count": 0,
+        "stars": 515,
+        "forks": 49,
+        "language": null,
+        "is-fork": false,
+        "description": "🏡 The Homie Convention: a lightweight MQTT convention for the IoT"
+    },
+    {
+        "full-name": "Azure/iot-edge-v1",
+        "URL": "https://github.com/Azure/iot-edge-v1",
+        "Data-Points-Count": 56,
+        "stars": 511,
+        "forks": 267,
+        "language": "C",
+        "is-fork": false,
+        "description": "Azure IoT Edge"
+    },
+    {
+        "full-name": "thingsboard/thingsboard-gateway",
+        "URL": "https://github.com/thingsboard/thingsboard-gateway",
+        "Data-Points-Count": 3,
+        "stars": 474,
+        "forks": 253,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with ThingsBoard IoT Platform using OPC-UA and MQTT protocols"
+    },
+    {
+        "full-name": "signalwire/freeswitch",
+        "URL": "https://github.com/signalwire/freeswitch",
+        "Data-Points-Count": 191,
+        "stars": 473,
+        "forks": 202,
+        "language": "C",
+        "is-fork": false,
+        "description": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device."
+    },
+    {
+        "full-name": "platformio/platformio-atom-ide",
+        "URL": "https://github.com/platformio/platformio-atom-ide",
+        "Data-Points-Count": 120,
+        "stars": 471,
+        "forks": 69,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "PlatformIO IDE for Atom: The next generation integrated development environment for IoT"
+    },
+    {
+        "full-name": "kerberos-io/machinery",
+        "URL": "https://github.com/kerberos-io/machinery",
+        "Data-Points-Count": 17,
+        "stars": 459,
+        "forks": 92,
+        "language": "C++",
+        "is-fork": false,
+        "description": "An open source image processing framework, which uses your USB-, IP- or RPi-camera to recognize events (e.g. motion)."
+    },
+    {
+        "full-name": "whitecatboard/Lua-RTOS-ESP32",
+        "URL": "https://github.com/whitecatboard/Lua-RTOS-ESP32",
+        "Data-Points-Count": 4,
+        "stars": 459,
+        "forks": 132,
+        "language": "C",
+        "is-fork": false,
+        "description": "Lua RTOS for ESP32"
+    },
+    {
+        "full-name": "contiki-ng/contiki-ng",
+        "URL": "https://github.com/contiki-ng/contiki-ng",
+        "Data-Points-Count": 99,
+        "stars": 437,
+        "forks": 330,
+        "language": "C",
+        "is-fork": false,
+        "description": "Contiki-NG: The OS for Next Generation IoT Devices"
+    },
+    {
+        "full-name": "platformio/platformio-vscode-ide",
+        "URL": "https://github.com/platformio/platformio-vscode-ide",
+        "Data-Points-Count": 43,
+        "stars": 428,
+        "forks": 61,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "PlatformIO IDE for VSCode: The next generation integrated development environment for IoT"
+    },
+    {
+        "full-name": "greghesp/assistant-relay",
+        "URL": "https://github.com/greghesp/assistant-relay",
+        "Data-Points-Count": 19,
+        "stars": 424,
+        "forks": 148,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "A Node.js server that allows for sending commands to Google Home/Assistant from endpoints"
+    },
+    {
+        "full-name": "eclipse/californium",
+        "URL": "https://github.com/eclipse/californium",
+        "Data-Points-Count": 53,
+        "stars": 424,
+        "forks": 257,
+        "language": "Java",
+        "is-fork": false,
+        "description": "CoAP/DTLS Java Implementation "
+    },
+    {
+        "full-name": "aliyun/iotkit-embedded",
+        "URL": "https://github.com/aliyun/iotkit-embedded",
+        "Data-Points-Count": 0,
+        "stars": 417,
+        "forks": 233,
+        "language": "C",
+        "is-fork": false,
+        "description": "高速镜像: https://code.aliyun.com/linkkit/c-sdk"
+    },
+    {
+        "full-name": "TheThingsNetwork/ttn",
+        "URL": "https://github.com/TheThingsNetwork/ttn",
+        "Data-Points-Count": 49,
+        "stars": 416,
+        "forks": 267,
+        "language": "Go",
+        "is-fork": false,
+        "description": "The Things Network Stack V2"
+    },
+    {
+        "full-name": "eclipse/milo",
+        "URL": "https://github.com/eclipse/milo",
+        "Data-Points-Count": 26,
+        "stars": 413,
+        "forks": 191,
+        "language": "Java",
+        "is-fork": false,
+        "description": " Eclipse Milo™ - an open source implementation of OPC UA (IEC 62541)."
+    },
+    {
+        "full-name": "macchina-io/macchina.io",
+        "URL": "https://github.com/macchina-io/macchina.io",
+        "Data-Points-Count": 3,
+        "stars": 412,
+        "forks": 121,
+        "language": "C++",
+        "is-fork": false,
+        "description": "macchina.io IoT Edge Device SDK is a powerful C++ and JavaScript SDK for edge devices, IoT gateways and connected embedded systems."
+    },
+    {
+        "full-name": "DexterInd/GrovePi",
+        "URL": "https://github.com/DexterInd/GrovePi",
+        "Data-Points-Count": 0,
+        "stars": 397,
+        "forks": 418,
+        "language": "Python",
+        "is-fork": false,
+        "description": "GrovePi is an open source platform for connecting Grove Sensors to the Raspberry Pi."
+    },
+    {
+        "full-name": "directus/api",
+        "URL": "https://github.com/directus/api",
+        "Data-Points-Count": 585,
+        "stars": 397,
+        "forks": 171,
+        "language": "PHP",
+        "is-fork": false,
+        "description": "Directus Database API — Wraps Custom SQL Databases with a REST/GraphQL API"
+    },
+    {
+        "full-name": "opendata-stuttgart/sensors-software",
+        "URL": "https://github.com/opendata-stuttgart/sensors-software",
+        "Data-Points-Count": 25,
+        "stars": 382,
+        "forks": 224,
+        "language": "C++",
+        "is-fork": false,
+        "description": "sourcecode for reading sensor data"
+    },
+    {
+        "full-name": "eclipse/leshan",
+        "URL": "https://github.com/eclipse/leshan",
+        "Data-Points-Count": 61,
+        "stars": 382,
+        "forks": 272,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Eclipse Leshan is an OMA Lightweight M2M (LWM2M) implementation in Java."
+    },
+    {
+        "full-name": "apache/camel-k",
+        "URL": "https://github.com/apache/camel-k",
+        "Data-Points-Count": 0,
+        "stars": 380,
+        "forks": 109,
+        "language": "Go",
+        "is-fork": false,
+        "description": "Apache Camel K is a lightweight integration platform, born on Kubernetes, with serverless superpowers."
+    },
+    {
+        "full-name": "containers/crun",
+        "URL": "https://github.com/containers/crun",
+        "Data-Points-Count": 0,
+        "stars": 374,
+        "forks": 50,
+        "language": "C",
+        "is-fork": false,
+        "description": "A fast and lightweight fully featured OCI runtime and C library for running containers"
+    },
+    {
+        "full-name": "JuulLabs-OSS/mcuboot",
+        "URL": "https://github.com/JuulLabs-OSS/mcuboot",
+        "Data-Points-Count": 5,
+        "stars": 372,
+        "forks": 198,
+        "language": "C",
+        "is-fork": false,
+        "description": "Secure boot for 32-bit Microcontrollers!"
+    },
+    {
+        "full-name": "koalazak/dorita980",
+        "URL": "https://github.com/koalazak/dorita980",
+        "Data-Points-Count": 2,
+        "stars": 363,
+        "forks": 75,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "Unofficial iRobot Roomba and Braava (i7/i7+, 980, 960, 900, e5, 690, 675, m6, etc) node.js library (SDK) to control your robot"
+    },
+    {
+        "full-name": "iotexproject/iotex-core",
+        "URL": "https://github.com/iotexproject/iotex-core",
+        "Data-Points-Count": 92,
+        "stars": 359,
+        "forks": 157,
+        "language": "Go",
+        "is-fork": false,
+        "description": "Official implementation of IoTeX blockchain protocol in Go."
+    },
+    {
+        "full-name": "neu-rah/ArduinoMenu",
+        "URL": "https://github.com/neu-rah/ArduinoMenu",
+        "Data-Points-Count": 23,
+        "stars": 353,
+        "forks": 97,
+        "language": "C++",
+        "is-fork": false,
+        "description": "Arduino generic menu/interactivity system"
+    },
+    {
+        "full-name": "jeffreydwalter/arlo",
+        "URL": "https://github.com/jeffreydwalter/arlo",
+        "Data-Points-Count": 11,
+        "stars": 344,
+        "forks": 92,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Python module for interacting with Netgear's Arlo camera system."
+    },
+    {
+        "full-name": "hivemq/hivemq-community-edition",
+        "URL": "https://github.com/hivemq/hivemq-community-edition",
+        "Data-Points-Count": 5,
+        "stars": 342,
+        "forks": 94,
+        "language": "Java",
+        "is-fork": false,
+        "description": "HiveMQ CE is a Java-based open source MQTT broker that fully supports MQTT 3.x and MQTT 5. It is the foundation of the HiveMQ Enterprise Connectivity and Messaging Platform"
+    },
+    {
+        "full-name": "smartHomeHub/SmartIR",
+        "URL": "https://github.com/smartHomeHub/SmartIR",
+        "Data-Points-Count": 0,
+        "stars": 342,
+        "forks": 209,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Integration for Home Assistant to control climate, TV and fan devices via IR/RF controllers (Broadlink, Xiaomi, MQTT)"
+    },
+    {
+        "full-name": "Azure/azure-iot-sdk-c",
+        "URL": "https://github.com/Azure/azure-iot-sdk-c",
+        "Data-Points-Count": 126,
+        "stars": 340,
+        "forks": 464,
+        "language": "C",
+        "is-fork": false,
+        "description": "A C99 SDK for connecting devices to Microsoft Azure IoT services"
+    },
+    {
+        "full-name": "TheThingsNetwork/lorawan-stack",
+        "URL": "https://github.com/TheThingsNetwork/lorawan-stack",
+        "Data-Points-Count": 441,
+        "stars": 338,
+        "forks": 106,
+        "language": "Go",
+        "is-fork": false,
+        "description": "The Things Stack, an Open Source LoRaWAN Network Server"
+    },
+    {
+        "full-name": "eclipse/kura",
+        "URL": "https://github.com/eclipse/kura",
+        "Data-Points-Count": 465,
+        "stars": 320,
+        "forks": 226,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Eclipse Kura™ project - http://eclipse.org/kura"
+    },
+    {
+        "full-name": "espressif/esp-mqtt",
+        "URL": "https://github.com/espressif/esp-mqtt",
+        "Data-Points-Count": 2,
+        "stars": 318,
+        "forks": 160,
+        "language": "C",
+        "is-fork": false,
+        "description": "ESP32 mqtt component"
+    },
+    {
+        "full-name": "danielwelch/hassio-zigbee2mqtt",
+        "URL": "https://github.com/danielwelch/hassio-zigbee2mqtt",
+        "Data-Points-Count": 2,
+        "stars": 318,
+        "forks": 103,
+        "language": "Shell",
+        "is-fork": false,
+        "description": "Hass.io add-on for zigbee2mqtt"
+    },
+    {
+        "full-name": "cetic/6lbr",
+        "URL": "https://github.com/cetic/6lbr",
+        "Data-Points-Count": 37,
+        "stars": 316,
+        "forks": 192,
+        "language": "C",
+        "is-fork": false,
+        "description": "A deployment-ready 6LoWPAN Border Router solution based on Contiki"
+    },
+    {
+        "full-name": "freedomotic/freedomotic",
+        "URL": "https://github.com/freedomotic/freedomotic",
+        "Data-Points-Count": 21,
+        "stars": 313,
+        "forks": 475,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Open IoT Framework"
+    },
+    {
+        "full-name": "brocaar/chirpstack-application-server",
+        "URL": "https://github.com/brocaar/chirpstack-application-server",
+        "Data-Points-Count": 20,
+        "stars": 286,
+        "forks": 201,
+        "language": "Go",
+        "is-fork": false,
+        "description": "ChirpStack Application Server is an open-source LoRaWAN application-server."
+    },
+    {
+        "full-name": "netbeast/dashboard",
+        "URL": "https://github.com/netbeast/dashboard",
+        "Data-Points-Count": 21,
+        "stars": 279,
+        "forks": 71,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": ":star2:  Create IoT applications. Wire devices together regardless their brand or technology."
+    },
+    {
+        "full-name": "ikalchev/HAP-python",
+        "URL": "https://github.com/ikalchev/HAP-python",
+        "Data-Points-Count": 5,
+        "stars": 279,
+        "forks": 73,
+        "language": "Python",
+        "is-fork": false,
+        "description": "A python implementation of the HomeKit Accessory Protocol (HAP)"
+    },
+    {
+        "full-name": "rdmtc/RedMatic",
+        "URL": "https://github.com/rdmtc/RedMatic",
+        "Data-Points-Count": 0,
+        "stars": 261,
+        "forks": 19,
+        "language": "HTML",
+        "is-fork": false,
+        "description": "Node-RED packaged as Addon for the Homematic CCU3 and RaspberryMatic 🤹‍♂️"
+    },
+    {
+        "full-name": "openhab/openhab-core",
+        "URL": "https://github.com/openhab/openhab-core",
+        "Data-Points-Count": 54,
+        "stars": 253,
+        "forks": 191,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Core framework of openHAB"
+    },
+    {
+        "full-name": "rauc/rauc",
+        "URL": "https://github.com/rauc/rauc",
+        "Data-Points-Count": 99,
+        "stars": 246,
+        "forks": 89,
+        "language": "C",
+        "is-fork": false,
+        "description": "Safe and secure software updates for embedded Linux"
+    },
+    {
+        "full-name": "botletics/SIM7000-LTE-Shield",
+        "URL": "https://github.com/botletics/SIM7000-LTE-Shield",
+        "Data-Points-Count": 1,
+        "stars": 245,
+        "forks": 119,
+        "language": "C++",
+        "is-fork": false,
+        "description": "LTE CAT-M/NB-IoT Arduino-compatible shield with GNSS and temperature sensor. Library supports SIMCom 2G/3G/4G LTE/CAT-M/NB-IoT"
+    },
+    {
+        "full-name": "hivemq/hivemq-mqtt-client",
+        "URL": "https://github.com/hivemq/hivemq-mqtt-client",
+        "Data-Points-Count": 19,
+        "stars": 242,
+        "forks": 44,
+        "language": "Java",
+        "is-fork": false,
+        "description": "HiveMQ MQTT Client is a MQTT 5.0 and MQTT 3.1.1 compatible and feature-rich high-performance Java client library with different API flavours and backpressure support"
+    },
+    {
+        "full-name": "cattlepi/cattlepi",
+        "URL": "https://github.com/cattlepi/cattlepi",
+        "Data-Points-Count": 12,
+        "stars": 236,
+        "forks": 10,
+        "language": "Shell",
+        "is-fork": false,
+        "description": "effortlessly boot, configure, update and monitor your raspberry pi :cloud:"
+    },
+    {
+        "full-name": "eclipse/hawkbit",
+        "URL": "https://github.com/eclipse/hawkbit",
+        "Data-Points-Count": 26,
+        "stars": 229,
+        "forks": 93,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Eclipse hawkBit™"
+    },
+    {
+        "full-name": "fivdi/i2c-bus",
+        "URL": "https://github.com/fivdi/i2c-bus",
+        "Data-Points-Count": 5,
+        "stars": 214,
+        "forks": 33,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "I2C serial bus access with Node.js"
+    },
+    {
+        "full-name": "kerberos-io/web",
+        "URL": "https://github.com/kerberos-io/web",
+        "Data-Points-Count": 15,
+        "stars": 214,
+        "forks": 64,
+        "language": "PHP",
+        "is-fork": false,
+        "description": "An open source GUI to configure the machinery and to view events that were detected by the machinery."
+    },
+    {
+        "full-name": "home-assistant/hassio-addons",
+        "URL": "https://github.com/home-assistant/hassio-addons",
+        "Data-Points-Count": 15,
+        "stars": 213,
+        "forks": 261,
+        "language": "Shell",
+        "is-fork": false,
+        "description": ":heavy_plus_sign: Docker add-ons for Hass.io"
+    },
+    {
+        "full-name": "firewalla/firewalla",
+        "URL": "https://github.com/firewalla/firewalla",
+        "Data-Points-Count": 49,
+        "stars": 212,
+        "forks": 68,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "http://firewalla.com"
+    },
+    {
+        "full-name": "AndiDittrich/NodeMCU-Tool",
+        "URL": "https://github.com/AndiDittrich/NodeMCU-Tool",
+        "Data-Points-Count": 19,
+        "stars": 211,
+        "forks": 38,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": ":wrench: Upload + Manage Lua files on NodeMCU"
+    },
+    {
+        "full-name": "oakbrad/brad-homeassistant-config",
+        "URL": "https://github.com/oakbrad/brad-homeassistant-config",
+        "Data-Points-Count": 3,
+        "stars": 207,
+        "forks": 22,
+        "language": "HTML",
+        "is-fork": false,
+        "description": "Home Assistant configuration"
+    },
+    {
+        "full-name": "renode/renode",
+        "URL": "https://github.com/renode/renode",
+        "Data-Points-Count": 15,
+        "stars": 206,
+        "forks": 38,
+        "language": "C#",
+        "is-fork": false,
+        "description": "Renode - virtual development framework for complex embedded systems"
+    },
+    {
+        "full-name": "platformio/platform-espressif32",
+        "URL": "https://github.com/platformio/platform-espressif32",
+        "Data-Points-Count": 22,
+        "stars": 205,
+        "forks": 129,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Espressif 32: development platform for PlatformIO"
+    },
+    {
+        "full-name": "mwaylabs/fruitymesh",
+        "URL": "https://github.com/mwaylabs/fruitymesh",
+        "Data-Points-Count": 1,
+        "stars": 205,
+        "forks": 81,
+        "language": "C",
+        "is-fork": false,
+        "description": "FruityMesh - The first completely connection-based open source mesh on top of Bluetooth Low Energy (4.1/5.0 or higher)"
+    },
+    {
+        "full-name": "OpenZWave/Zwave2Mqtt",
+        "URL": "https://github.com/OpenZWave/Zwave2Mqtt",
+        "Data-Points-Count": 77,
+        "stars": 204,
+        "forks": 52,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "Fully configurable Zwave to MQTT gateway and Control Panel using NodeJS and Vue"
+    },
+    {
+        "full-name": "devicehive/devicehive-java-server",
+        "URL": "https://github.com/devicehive/devicehive-java-server",
+        "Data-Points-Count": 30,
+        "stars": 202,
+        "forks": 92,
+        "language": "Java",
+        "is-fork": false,
+        "description": "DeviceHive Java Server"
+    },
+    {
+        "full-name": "particle-iot/particle-cli",
+        "URL": "https://github.com/particle-iot/particle-cli",
+        "Data-Points-Count": 67,
+        "stars": 200,
+        "forks": 86,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "Command Line Interface for Particle Cloud and devices"
+    },
+    {
+        "full-name": "AtherEnergy/rumqtt",
+        "URL": "https://github.com/AtherEnergy/rumqtt",
+        "Data-Points-Count": 6,
+        "stars": 200,
+        "forks": 84,
+        "language": "Rust",
+        "is-fork": false,
+        "description": "Pure rust mqtt cilent"
+    },
+    {
+        "full-name": "dontsovcmc/waterius",
+        "URL": "https://github.com/dontsovcmc/waterius",
+        "Data-Points-Count": 18,
+        "stars": 199,
+        "forks": 42,
+        "language": "C++",
+        "is-fork": false,
+        "description": "Передача показаний воды по Wi-Fi. Watermeter Wi-Fi transmitter."
+    },
+    {
+        "full-name": "heedy/heedy",
+        "URL": "https://github.com/heedy/heedy",
+        "Data-Points-Count": 18,
+        "stars": 197,
+        "forks": 23,
+        "language": "Go",
+        "is-fork": false,
+        "description": "An Open-Source Platform for Quantified Self & IoT"
+    },
+    {
+        "full-name": "Or3stis/apparatus",
+        "URL": "https://github.com/Or3stis/apparatus",
+        "Data-Points-Count": 6,
+        "stars": 194,
+        "forks": 80,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "A graphical security analysis tool for IoT networks"
+    },
+    {
+        "full-name": "home-assistant/home-assistant-cli",
+        "URL": "https://github.com/home-assistant/home-assistant-cli",
+        "Data-Points-Count": 0,
+        "stars": 189,
+        "forks": 32,
+        "language": "Python",
+        "is-fork": false,
+        "description": ":computer: Command-line tool for Home Asssistant"
+    },
+    {
+        "full-name": "FluuxIO/go-xmpp",
+        "URL": "https://github.com/FluuxIO/go-xmpp",
+        "Data-Points-Count": 5,
+        "stars": 187,
+        "forks": 39,
+        "language": "Go",
+        "is-fork": false,
+        "description": "Native Go XMPP library"
+    },
+    {
+        "full-name": "kyle-github/libplctag",
+        "URL": "https://github.com/kyle-github/libplctag",
+        "Data-Points-Count": 32,
+        "stars": 186,
+        "forks": 82,
+        "language": "C",
+        "is-fork": false,
+        "description": "This library provides a portable and simple API for accessing Allen-Bradley PLC data over Ethernet.  "
+    },
+    {
+        "full-name": "yodaos-project/yoda.js",
+        "URL": "https://github.com/yodaos-project/yoda.js",
+        "Data-Points-Count": 16,
+        "stars": 183,
+        "forks": 48,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "Application Framework that powered YodaOS "
+    },
+    {
+        "full-name": "s00500/ESPUI",
+        "URL": "https://github.com/s00500/ESPUI",
+        "Data-Points-Count": 5,
+        "stars": 182,
+        "forks": 45,
+        "language": "C",
+        "is-fork": false,
+        "description": "A simple web user interface library for ESP32 and ESP8266"
+    },
+    {
+        "full-name": "OpenMobileAlliance/OMA_LwM2M_for_Developers",
+        "URL": "https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers",
+        "Data-Points-Count": 14,
+        "stars": 179,
+        "forks": 39,
+        "language": null,
+        "is-fork": false,
+        "description": "Public - OMA LightweightM2M specifications and LwM2M Developer Tool Kit for public review."
+    },
+    {
+        "full-name": "theyosh/TerrariumPI",
+        "URL": "https://github.com/theyosh/TerrariumPI",
+        "Data-Points-Count": 10,
+        "stars": 178,
+        "forks": 64,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "Home automated terrarium/aquarium or other enclosed environment with a Raspberry Pi"
+    },
+    {
+        "full-name": "senx/warp10-platform",
+        "URL": "https://github.com/senx/warp10-platform",
+        "Data-Points-Count": 4,
+        "stars": 177,
+        "forks": 45,
+        "language": "Java",
+        "is-fork": false,
+        "description": "The Most Advanced Time Series Platform"
+    },
+    {
+        "full-name": "ibm-watson-iot/iot-python",
+        "URL": "https://github.com/ibm-watson-iot/iot-python",
+        "Data-Points-Count": 18,
+        "stars": 169,
+        "forks": 147,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Client libraries and samples for connecting to IBM Watson IoT using Python 2.7 and 3.x"
+    },
+    {
+        "full-name": "ibm-watson-iot/iot-nodejs",
+        "URL": "https://github.com/ibm-watson-iot/iot-nodejs",
+        "Data-Points-Count": 3,
+        "stars": 159,
+        "forks": 103,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "Client libraries and samples for connecting to IBM Watson IoT using nodejs"
+    },
+    {
+        "full-name": "motom001/DoorPi",
+        "URL": "https://github.com/motom001/DoorPi",
+        "Data-Points-Count": 42,
+        "stars": 155,
+        "forks": 68,
+        "language": "Python",
+        "is-fork": false,
+        "description": "OpenSource VoIP Door-Intercomstation"
+    },
+    {
+        "full-name": "kitspace/kitspace",
+        "URL": "https://github.com/kitspace/kitspace",
+        "Data-Points-Count": 14,
+        "stars": 155,
+        "forks": 57,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "A registry for ready to build open hardware electronics projects "
+    },
+    {
+        "full-name": "eclipse/ditto",
+        "URL": "https://github.com/eclipse/ditto",
+        "Data-Points-Count": 6,
+        "stars": 146,
+        "forks": 52,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Eclipse Ditto Project"
+    },
+    {
+        "full-name": "adafruit/Adafruit_IO_Python",
+        "URL": "https://github.com/adafruit/Adafruit_IO_Python",
+        "Data-Points-Count": 9,
+        "stars": 146,
+        "forks": 57,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Adafruit IO Python Client Library"
+    },
+    {
+        "full-name": "Azure/azure-sphere-samples",
+        "URL": "https://github.com/Azure/azure-sphere-samples",
+        "Data-Points-Count": 0,
+        "stars": 142,
+        "forks": 122,
+        "language": "C",
+        "is-fork": false,
+        "description": "Samples for Azure Sphere"
+    },
+    {
+        "full-name": "eclipse/vorto",
+        "URL": "https://github.com/eclipse/vorto",
+        "Data-Points-Count": 268,
+        "stars": 141,
+        "forks": 95,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Vorto Project"
+    },
+    {
+        "full-name": "platformio/platform-espressif8266",
+        "URL": "https://github.com/platformio/platform-espressif8266",
+        "Data-Points-Count": 20,
+        "stars": 139,
+        "forks": 128,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Espressif 8266: development platform for PlatformIO"
+    },
+    {
+        "full-name": "devicehive/esp8266-firmware",
+        "URL": "https://github.com/devicehive/esp8266-firmware",
+        "Data-Points-Count": 5,
+        "stars": 138,
+        "forks": 44,
+        "language": "C",
+        "is-fork": false,
+        "description": "DeviceHive esp8266 firmware. Control hardware via clouds with DeviceHive!"
+    },
+    {
+        "full-name": "hoobs-org/HOOBS",
+        "URL": "https://github.com/hoobs-org/HOOBS",
+        "Data-Points-Count": 109,
+        "stars": 131,
+        "forks": 14,
+        "language": "Shell",
+        "is-fork": false,
+        "description": "HOOBS - Homebridge Out Of the Box System"
+    },
+    {
+        "full-name": "NaomiProject/Naomi",
+        "URL": "https://github.com/NaomiProject/Naomi",
+        "Data-Points-Count": 0,
+        "stars": 128,
+        "forks": 29,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Naomi, an open source vocal assistant Jarvis-like based on the Jasper Project"
+    },
+    {
+        "full-name": "PureSwift/BluetoothLinux",
+        "URL": "https://github.com/PureSwift/BluetoothLinux",
+        "Data-Points-Count": 6,
+        "stars": 128,
+        "forks": 19,
+        "language": "Swift",
+        "is-fork": false,
+        "description": "Pure Swift Linux Bluetooth Stack"
+    },
+    {
+        "full-name": "owsolutions/angular5-iot-dashboard",
+        "URL": "https://github.com/owsolutions/angular5-iot-dashboard",
+        "Data-Points-Count": 0,
+        "stars": 127,
+        "forks": 66,
+        "language": "TypeScript",
+        "is-fork": false,
+        "description": "Multipurpose dashboard admin for IoT softwares, remote control, user interface. Develop your client dashboards in Angular 5 with vast variety of components available."
+    },
+    {
+        "full-name": "mycontroller-org/mycontroller",
+        "URL": "https://github.com/mycontroller-org/mycontroller",
+        "Data-Points-Count": 86,
+        "stars": 127,
+        "forks": 82,
+        "language": "Java",
+        "is-fork": false,
+        "description": "The Open Source Controller"
+    },
+    {
+        "full-name": "TheThingsNetwork/arduino-device-lib",
+        "URL": "https://github.com/TheThingsNetwork/arduino-device-lib",
+        "Data-Points-Count": 17,
+        "stars": 126,
+        "forks": 78,
+        "language": "C",
+        "is-fork": false,
+        "description": "Arduino Library for TTN Devices"
+    },
+    {
+        "full-name": "particle-iot/docs",
+        "URL": "https://github.com/particle-iot/docs",
+        "Data-Points-Count": 20,
+        "stars": 126,
+        "forks": 268,
+        "language": "CSS",
+        "is-fork": false,
+        "description": "Documentation for Particle"
+    },
+    {
+        "full-name": "taligentx/dscKeybusInterface",
+        "URL": "https://github.com/taligentx/dscKeybusInterface",
+        "Data-Points-Count": 0,
+        "stars": 121,
+        "forks": 46,
+        "language": "C++",
+        "is-fork": false,
+        "description": "An Arduino/esp8266 library to directly interface with DSC security systems."
+    },
+    {
+        "full-name": "openhab/openhab-ios",
+        "URL": "https://github.com/openhab/openhab-ios",
+        "Data-Points-Count": 61,
+        "stars": 120,
+        "forks": 100,
+        "language": "Swift",
+        "is-fork": false,
+        "description": "The repository of the iOS client"
+    },
+    {
+        "full-name": "danimtb/dasshio",
+        "URL": "https://github.com/danimtb/dasshio",
+        "Data-Points-Count": 5,
+        "stars": 120,
+        "forks": 55,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Hass.io add-on to easily use Amazon Dash Buttons with Home Assistant"
+    },
+    {
+        "full-name": "AlCalzone/node-tradfri-client",
+        "URL": "https://github.com/AlCalzone/node-tradfri-client",
+        "Data-Points-Count": 19,
+        "stars": 119,
+        "forks": 24,
+        "language": "TypeScript",
+        "is-fork": false,
+        "description": "Library to talk to IKEA Trådfri Gateways without external binaries"
+    },
+    {
+        "full-name": "unitsofmeasurement/unit-api",
+        "URL": "https://github.com/unitsofmeasurement/unit-api",
+        "Data-Points-Count": 1,
+        "stars": 118,
+        "forks": 33,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Units of Measurement API"
+    },
+    {
+        "full-name": "espressif/esp-va-sdk",
+        "URL": "https://github.com/espressif/esp-va-sdk",
+        "Data-Points-Count": 0,
+        "stars": 113,
+        "forks": 35,
+        "language": "C",
+        "is-fork": false,
+        "description": "Espressif's Voice Assistant SDK: Alexa, Google Voice Assistant, Google DialogFlow"
+    },
+    {
+        "full-name": "MiEcosystem/ios-rn-sdk",
+        "URL": "https://github.com/MiEcosystem/ios-rn-sdk",
+        "Data-Points-Count": 2,
+        "stars": 110,
+        "forks": 42,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "Works with mijia "
+    },
+    {
+        "full-name": "openthread/ot-br-posix",
+        "URL": "https://github.com/openthread/ot-br-posix",
+        "Data-Points-Count": 54,
+        "stars": 110,
+        "forks": 70,
+        "language": "C++",
+        "is-fork": false,
+        "description": "OpenThread Border Router, a Thread border router for POSIX-based platforms."
+    },
+    {
+        "full-name": "platformio/platform-ststm32",
+        "URL": "https://github.com/platformio/platform-ststm32",
+        "Data-Points-Count": 27,
+        "stars": 107,
+        "forks": 97,
+        "language": "Python",
+        "is-fork": false,
+        "description": "ST STM32: development platform for PlatformIO"
+    },
+    {
+        "full-name": "gilmaimon/ArduinoWebsockets",
+        "URL": "https://github.com/gilmaimon/ArduinoWebsockets",
+        "Data-Points-Count": 12,
+        "stars": 105,
+        "forks": 17,
+        "language": "C++",
+        "is-fork": false,
+        "description": "A library for writing modern websockets applications with Arduino (ESP8266 and ESP32)"
+    },
+    {
+        "full-name": "mysensors/NodeManager",
+        "URL": "https://github.com/mysensors/NodeManager",
+        "Data-Points-Count": 130,
+        "stars": 104,
+        "forks": 72,
+        "language": "C++",
+        "is-fork": false,
+        "description": "Plugin for a rapid development of battery-powered sensors"
+    },
+    {
+        "full-name": "jofrfu/tinyTPU",
+        "URL": "https://github.com/jofrfu/tinyTPU",
+        "Data-Points-Count": 3,
+        "stars": 100,
+        "forks": 21,
+        "language": "VHDL",
+        "is-fork": false,
+        "description": "Implementation of a Tensor Processing Unit for embedded systems and the IoT."
+    },
+    {
+        "full-name": "danobot/entity-controller",
+        "URL": "https://github.com/danobot/entity-controller",
+        "Data-Points-Count": 4,
+        "stars": 95,
+        "forks": 25,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Intelligent entity controller for Home Assistant for controlling devices with timers, overrides, custom service parameters and scripts, and sun-based time restrictions."
+    },
+    {
+        "full-name": "Norien/Home-Assistant-Config",
+        "URL": "https://github.com/Norien/Home-Assistant-Config",
+        "Data-Points-Count": 2,
+        "stars": 91,
+        "forks": 11,
+        "language": "Python",
+        "is-fork": false,
+        "description": ":house: Home Assistant configuration"
+    },
+    {
+        "full-name": "ConnectivityFoundry/AwaLWM2M",
+        "URL": "https://github.com/ConnectivityFoundry/AwaLWM2M",
+        "Data-Points-Count": 71,
+        "stars": 90,
+        "forks": 56,
+        "language": "C",
+        "is-fork": false,
+        "description": "Awa LWM2M is an implementation of the OMA Lightweight M2M protocol in C."
+    },
+    {
+        "full-name": "frangoteam/FUXA",
+        "URL": "https://github.com/frangoteam/FUXA",
+        "Data-Points-Count": 8,
+        "stars": 89,
+        "forks": 39,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "Web-based Process Visualization (SCADA/HMI) software"
+    },
+    {
+        "full-name": "vert-x3/vertx-mqtt",
+        "URL": "https://github.com/vert-x3/vertx-mqtt",
+        "Data-Points-Count": 7,
+        "stars": 87,
+        "forks": 52,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Vert.x MQTT"
+    },
+    {
+        "full-name": "cortoproject/corto",
+        "URL": "https://github.com/cortoproject/corto",
+        "Data-Points-Count": 160,
+        "stars": 86,
+        "forks": 15,
+        "language": "C",
+        "is-fork": false,
+        "description": "A hierarchical object store for connecting realtime machine data with web applications, historians & more"
+    },
+    {
+        "full-name": "Wyliodrin/WyliodrinSTUDIO",
+        "URL": "https://github.com/Wyliodrin/WyliodrinSTUDIO",
+        "Data-Points-Count": 16,
+        "stars": 84,
+        "forks": 44,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "Wyliodrin STUDIO is a Chrome based IDE for software and hardware development in IoT and Embedded Linux"
+    },
+    {
+        "full-name": "s7connector/s7connector",
+        "URL": "https://github.com/s7connector/s7connector",
+        "Data-Points-Count": 9,
+        "stars": 84,
+        "forks": 39,
+        "language": "HTML",
+        "is-fork": false,
+        "description": "S7 PLC Connector for java"
+    },
+    {
+        "full-name": "klausahrenberg/WThermostatBeca",
+        "URL": "https://github.com/klausahrenberg/WThermostatBeca",
+        "Data-Points-Count": 3,
+        "stars": 81,
+        "forks": 18,
+        "language": "C++",
+        "is-fork": false,
+        "description": "Replaces original Tuya firmware on Beca thermostat with ESP8266 wifi module"
+    },
+    {
+        "full-name": "smarthomeNG/smarthome",
+        "URL": "https://github.com/smarthomeNG/smarthome",
+        "Data-Points-Count": 21,
+        "stars": 80,
+        "forks": 81,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Device integration platform for your smart home"
+    },
+    {
+        "full-name": "Azure/iotedgedev",
+        "URL": "https://github.com/Azure/iotedgedev",
+        "Data-Points-Count": 13,
+        "stars": 78,
+        "forks": 40,
+        "language": "Python",
+        "is-fork": false,
+        "description": "The Azure IoT Edge Dev Tool greatly simplifies your Azure IoT Edge development process. It has everything you need to get started and helps with your day-to-day Edge development."
+    },
+    {
+        "full-name": "mpostol/OPC-UA-OOI",
+        "URL": "https://github.com/mpostol/OPC-UA-OOI",
+        "Data-Points-Count": 67,
+        "stars": 75,
+        "forks": 20,
+        "language": "C#",
+        "is-fork": false,
+        "description": "Object Oriented Internet - C# deliverables supporting a new Machine To Machine (M2M) communication architecture"
+    },
+    {
+        "full-name": "dzavalishin/mqtt_udp",
+        "URL": "https://github.com/dzavalishin/mqtt_udp",
+        "Data-Points-Count": 21,
+        "stars": 74,
+        "forks": 11,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Simpified version of MQTT over UDP"
+    },
+    {
+        "full-name": "Azure/device-simulation-dotnet",
+        "URL": "https://github.com/Azure/device-simulation-dotnet",
+        "Data-Points-Count": 14,
+        "stars": 74,
+        "forks": 66,
+        "language": "C#",
+        "is-fork": false,
+        "description": "IoT Simulation service"
+    },
+    {
+        "full-name": "esphome/feature-requests",
+        "URL": "https://github.com/esphome/feature-requests",
+        "Data-Points-Count": 0,
+        "stars": 73,
+        "forks": 6,
+        "language": null,
+        "is-fork": false,
+        "description": "ESPHome Feature Request Tracker"
+    },
+    {
+        "full-name": "matrix-io/matrix-os",
+        "URL": "https://github.com/matrix-io/matrix-os",
+        "Data-Points-Count": 9,
+        "stars": 71,
+        "forks": 19,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "MATRIX OS Codebase"
+    },
+    {
+        "full-name": "dc297/mqttclpro",
+        "URL": "https://github.com/dc297/mqttclpro",
+        "Data-Points-Count": 0,
+        "stars": 71,
+        "forks": 19,
+        "language": "Java",
+        "is-fork": false,
+        "description": "MQTT Client for android with tasker support"
+    },
+    {
+        "full-name": "NordicSemiconductor/nRF-IEEE-802.15.4-radio-driver",
+        "URL": "https://github.com/NordicSemiconductor/nRF-IEEE-802.15.4-radio-driver",
+        "Data-Points-Count": 100,
+        "stars": 70,
+        "forks": 44,
+        "language": "C",
+        "is-fork": false,
+        "description": "A generic, stack independent and system independent IEEE 802.15.4 radio driver, intended for nRF SoCs with IEEE 802.15.4 radio. It contains a built-in support for multiprotocol, allowing for concurrent operation of IEEE 802.15.4-based stacks (e.g. Thread, ZigBee) with Bluetooth LE"
+    },
+    {
+        "full-name": "darconeous/old-coap-archived",
+        "URL": "https://github.com/darconeous/old-coap-archived",
+        "Data-Points-Count": 6,
+        "stars": 68,
+        "forks": 19,
+        "language": "C",
+        "is-fork": false,
+        "description": "Project Moved"
+    },
+    {
+        "full-name": "microsoft/azure-iot-developer-kit",
+        "URL": "https://github.com/microsoft/azure-iot-developer-kit",
+        "Data-Points-Count": 12,
+        "stars": 64,
+        "forks": 45,
+        "language": null,
+        "is-fork": false,
+        "description": "A curated list of awesome Azure IoT Developer Kit projects and resources."
+    },
+    {
+        "full-name": "AYapejian/node-red-contrib-home-assistant",
+        "URL": "https://github.com/AYapejian/node-red-contrib-home-assistant",
+        "Data-Points-Count": 5,
+        "stars": 62,
+        "forks": 33,
+        "language": "HTML",
+        "is-fork": false,
+        "description": "Home Assistant + Node-Red"
+    },
+    {
+        "full-name": "unitsofmeasurement/indriya",
+        "URL": "https://github.com/unitsofmeasurement/indriya",
+        "Data-Points-Count": 27,
+        "stars": 61,
+        "forks": 33,
+        "language": "Java",
+        "is-fork": false,
+        "description": "JSR 385 - Reference Implementation"
+    },
+    {
+        "full-name": "apinf/platform",
+        "URL": "https://github.com/apinf/platform",
+        "Data-Points-Count": 561,
+        "stars": 60,
+        "forks": 30,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "Apinf - Open source API management platform with multi proxy and protocol support"
+    },
+    {
+        "full-name": "SquirrelJME/SquirrelJME",
+        "URL": "https://github.com/SquirrelJME/SquirrelJME",
+        "Data-Points-Count": 7,
+        "stars": 60,
+        "forks": 6,
+        "language": "Java",
+        "is-fork": false,
+        "description": "SquirrelJME is a Java ME 8 Virtual Machine for embedded and Internet of Things devices. It has the ultimate goal of being 99.9% compatible with the Java ME standard."
+    },
+    {
+        "full-name": "esphome/issues",
+        "URL": "https://github.com/esphome/issues",
+        "Data-Points-Count": 6,
+        "stars": 60,
+        "forks": 8,
+        "language": null,
+        "is-fork": false,
+        "description": "Issue Tracker for ESPHome"
+    },
+    {
+        "full-name": "bertmelis/VitoWiFi",
+        "URL": "https://github.com/bertmelis/VitoWiFi",
+        "Data-Points-Count": 5,
+        "stars": 60,
+        "forks": 15,
+        "language": "C++",
+        "is-fork": false,
+        "description": "Communicate with Viessmann boilers using the optolink for ESP8266 and ESP32"
+    },
+    {
+        "full-name": "foglamp/FogLAMP",
+        "URL": "https://github.com/foglamp/FogLAMP",
+        "Data-Points-Count": 8,
+        "stars": 57,
+        "forks": 38,
+        "language": "Python",
+        "is-fork": false,
+        "description": "An open source platform for the Internet of Things, it acts as an edge gateway between sensor devices and cloud storage systems"
+    },
+    {
+        "full-name": "sensebox/openSenseMap",
+        "URL": "https://github.com/sensebox/openSenseMap",
+        "Data-Points-Count": 37,
+        "stars": 55,
+        "forks": 47,
+        "language": "HTML",
+        "is-fork": false,
+        "description": "Platform for storing and exploring sensor data"
+    },
+    {
+        "full-name": "apache/camel-quarkus",
+        "URL": "https://github.com/apache/camel-quarkus",
+        "Data-Points-Count": 12,
+        "stars": 54,
+        "forks": 45,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Apache Camel Quarkus Integration"
+    },
+    {
+        "full-name": "platformio/platform-atmelavr",
+        "URL": "https://github.com/platformio/platform-atmelavr",
+        "Data-Points-Count": 17,
+        "stars": 53,
+        "forks": 54,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Atmel megaAVR: development platform for PlatformIO"
+    },
+    {
+        "full-name": "infiniteautomation/ma-core-public",
+        "URL": "https://github.com/infiniteautomation/ma-core-public",
+        "Data-Points-Count": 462,
+        "stars": 52,
+        "forks": 41,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Mango Automation Core public code"
+    },
+    {
+        "full-name": "TheThingsNetwork/docs",
+        "URL": "https://github.com/TheThingsNetwork/docs",
+        "Data-Points-Count": 4,
+        "stars": 51,
+        "forks": 226,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "Documentation for The Things Network"
+    },
+    {
+        "full-name": "openairproject/sensor-esp32",
+        "URL": "https://github.com/openairproject/sensor-esp32",
+        "Data-Points-Count": 7,
+        "stars": 50,
+        "forks": 15,
+        "language": "C",
+        "is-fork": false,
+        "description": "air quality sensor based on ESP32"
+    },
+    {
+        "full-name": "openairproject/sensor-esp32",
+        "URL": "https://github.com/openairproject/sensor-esp32",
+        "Data-Points-Count": 7,
+        "stars": 50,
+        "forks": 15,
+        "language": "C",
+        "is-fork": false,
+        "description": "air quality sensor based on ESP32"
+    },
+    {
+        "full-name": "ibm-watson-iot/iot-java",
+        "URL": "https://github.com/ibm-watson-iot/iot-java",
+        "Data-Points-Count": 10,
+        "stars": 49,
+        "forks": 81,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Client libraries and samples for connecting to IBM Watson IoT using Java"
+    },
+    {
+        "full-name": "hivemq/mqtt-cli",
+        "URL": "https://github.com/hivemq/mqtt-cli",
+        "Data-Points-Count": 16,
+        "stars": 49,
+        "forks": 8,
+        "language": "Java",
+        "is-fork": false,
+        "description": "MQTT CLI is a useful command line interface for connecting various MQTT clients supporting MQTT 5.0 and 3.1.1 "
+    },
+    {
+        "full-name": "alf45tar/PedalinoMini",
+        "URL": "https://github.com/alf45tar/PedalinoMini",
+        "Data-Points-Count": 7,
+        "stars": 49,
+        "forks": 14,
+        "language": "C",
+        "is-fork": false,
+        "description": "Same features of Pedalino™ in a compact form."
+    },
+    {
+        "full-name": "fivdi/epoll",
+        "URL": "https://github.com/fivdi/epoll",
+        "Data-Points-Count": 5,
+        "stars": 48,
+        "forks": 8,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "A low-level Node.js binding for the Linux epoll API"
+    },
+    {
+        "full-name": "microsoft/devkit-sdk",
+        "URL": "https://github.com/microsoft/devkit-sdk",
+        "Data-Points-Count": 91,
+        "stars": 46,
+        "forks": 42,
+        "language": "C",
+        "is-fork": false,
+        "description": "Arduino library and package for the MXChip IoT DevKit"
+    },
+    {
+        "full-name": "asebak/embeddedlinux-jvmdebugger-intellij",
+        "URL": "https://github.com/asebak/embeddedlinux-jvmdebugger-intellij",
+        "Data-Points-Count": 11,
+        "stars": 46,
+        "forks": 13,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Embedded Linux & Yocto Kernel JVM Debugger for IDEA (IoT Devices)"
+    },
+    {
+        "full-name": "NEEOInc/neeo-sdk",
+        "URL": "https://github.com/NEEOInc/neeo-sdk",
+        "Data-Points-Count": 0,
+        "stars": 46,
+        "forks": 14,
+        "language": "TypeScript",
+        "is-fork": false,
+        "description": "NEEO Brain SDK"
+    },
+    {
+        "full-name": "futurice/vor",
+        "URL": "https://github.com/futurice/vor",
+        "Data-Points-Count": 12,
+        "stars": 44,
+        "forks": 9,
+        "language": "Java",
+        "is-fork": false,
+        "description": "The new IoT Office Experience."
+    },
+    {
+        "full-name": "microsoft/vscode-azure-iot-toolkit",
+        "URL": "https://github.com/microsoft/vscode-azure-iot-toolkit",
+        "Data-Points-Count": 13,
+        "stars": 44,
+        "forks": 30,
+        "language": "HTML",
+        "is-fork": false,
+        "description": "Azure IoT Hub extension for Visual Studio Code"
+    },
+    {
+        "full-name": "enesbcs/rpieasy",
+        "URL": "https://github.com/enesbcs/rpieasy",
+        "Data-Points-Count": 23,
+        "stars": 44,
+        "forks": 10,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Easy MultiSensor device based on Raspberry PI"
+    },
+    {
+        "full-name": "telefonicaid/iotagent-node-lib",
+        "URL": "https://github.com/telefonicaid/iotagent-node-lib",
+        "Data-Points-Count": 98,
+        "stars": 44,
+        "forks": 52,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "Module to enable IoT Agent developers to build custom agents for their devices that can easily connect to NGSI Context Brokers"
+    },
+    {
+        "full-name": "paxapos/fiscalberry",
+        "URL": "https://github.com/paxapos/fiscalberry",
+        "Data-Points-Count": 15,
+        "stars": 43,
+        "forks": 29,
+        "language": "Python",
+        "is-fork": false,
+        "description": "[JSON ↔ HW]  Connect things using JSON with the fiscalberry websocket server interact easily with all kind of Hardware. Another IoT solution..."
+    },
+    {
+        "full-name": "tobyweston/temperature-machine",
+        "URL": "https://github.com/tobyweston/temperature-machine",
+        "Data-Points-Count": 6,
+        "stars": 40,
+        "forks": 12,
+        "language": "Scala",
+        "is-fork": false,
+        "description": "Data logger for multiple DS18B20 temperature sensors on one or more machines"
+    },
+    {
+        "full-name": "modelica-3rdparty/Modelica_DeviceDrivers",
+        "URL": "https://github.com/modelica-3rdparty/Modelica_DeviceDrivers",
+        "Data-Points-Count": 13,
+        "stars": 39,
+        "forks": 17,
+        "language": "Modelica",
+        "is-fork": false,
+        "description": "Free library for interfacing hardware drivers to Modelica models. There is support for joysticks, keyboards, UDP, TCP/IP, LCM, MQTT, shared memory, AD/DA converters, serial port and other devices."
+    },
+    {
+        "full-name": "museumsvictoria/nodel",
+        "URL": "https://github.com/museumsvictoria/nodel",
+        "Data-Points-Count": 31,
+        "stars": 36,
+        "forks": 8,
+        "language": "Java",
+        "is-fork": false,
+        "description": "A digital media control system for museums and galleries"
+    },
+    {
+        "full-name": "rauc/meta-rauc",
+        "URL": "https://github.com/rauc/meta-rauc",
+        "Data-Points-Count": 15,
+        "stars": 35,
+        "forks": 32,
+        "language": "BitBake",
+        "is-fork": false,
+        "description": "Yocto meta layer for RAUC, the embedded Linux update framework"
+    },
+    {
+        "full-name": "PureSwift/GATT",
+        "URL": "https://github.com/PureSwift/GATT",
+        "Data-Points-Count": 9,
+        "stars": 34,
+        "forks": 10,
+        "language": "Swift",
+        "is-fork": false,
+        "description": "Bluetooth Generic Attribute Profile (GATT) for Swift (Supports Linux)"
+    },
+    {
+        "full-name": "ASNeG/OpcUaStack",
+        "URL": "https://github.com/ASNeG/OpcUaStack",
+        "Data-Points-Count": 86,
+        "stars": 34,
+        "forks": 17,
+        "language": "C++",
+        "is-fork": false,
+        "description": "Open Source OPC UA Application Server and OPC UA Client/Server C++ Libraries"
+    },
+    {
+        "full-name": "freedomotic/fd-vue-webapp",
+        "URL": "https://github.com/freedomotic/fd-vue-webapp",
+        "Data-Points-Count": 0,
+        "stars": 33,
+        "forks": 52,
+        "language": "Vue",
+        "is-fork": false,
+        "description": "A Vue.js web application for Freedomotic Open IoT framework"
+    },
+    {
+        "full-name": "Azure/azure-iot-explorer",
+        "URL": "https://github.com/Azure/azure-iot-explorer",
+        "Data-Points-Count": 7,
+        "stars": 32,
+        "forks": 16,
+        "language": "TypeScript",
+        "is-fork": false,
+        "description": "Cross-platform UI for interacting with devices attached to Azure IoT Hub"
+    },
+    {
+        "full-name": "phpMyDomo/phpMyDomo",
+        "URL": "https://github.com/phpMyDomo/phpMyDomo",
+        "Data-Points-Count": 6,
+        "stars": 32,
+        "forks": 20,
+        "language": "PHP",
+        "is-fork": false,
+        "description": "The ultimate Domotic web remote for the rest of us"
+    },
+    {
+        "full-name": "unitsofmeasurement/uom-se",
+        "URL": "https://github.com/unitsofmeasurement/uom-se",
+        "Data-Points-Count": 33,
+        "stars": 32,
+        "forks": 19,
+        "language": "Java",
+        "is-fork": false,
+        "description": "JSR 363 - Implementation for Java SE 8"
+    },
+    {
+        "full-name": "davetcc/tcMenu",
+        "URL": "https://github.com/davetcc/tcMenu",
+        "Data-Points-Count": 10,
+        "stars": 32,
+        "forks": 3,
+        "language": "Java",
+        "is-fork": false,
+        "description": "TcMenu is a full feature menu system for Arduino, it's modular enough to support different input types, displays and also has remote control capability using a Java API."
+    },
+    {
+        "full-name": "casanet/casanet-server",
+        "URL": "https://github.com/casanet/casanet-server",
+        "Data-Points-Count": 11,
+        "stars": 32,
+        "forks": 8,
+        "language": "TypeScript",
+        "is-fork": false,
+        "description": "Open-source server and dashboard to control IoT devices in a local home network"
+    },
+    {
+        "full-name": "foss-for-synopsys-dwc-arc-processors/embarc_osp",
+        "URL": "https://github.com/foss-for-synopsys-dwc-arc-processors/embarc_osp",
+        "Data-Points-Count": 9,
+        "stars": 31,
+        "forks": 38,
+        "language": "C",
+        "is-fork": false,
+        "description": "embARC Open Software Platform (OSP) - An embedded software distribution for IoT and other embedded applications for ARC"
+    },
+    {
+        "full-name": "dividiti/crowdsource-video-experiments-on-android",
+        "URL": "https://github.com/dividiti/crowdsource-video-experiments-on-android",
+        "Data-Points-Count": 10,
+        "stars": 31,
+        "forks": 4,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Crowdsourcing video experiments (such as collaborative benchmarking and optimization of DNN algorithms) using Collective Knowledge Framework across diverse Android devices provided by volunteers. Results are continuously aggregated in the open repository:"
+    },
+    {
+        "full-name": "sensebox/openSenseMap-API",
+        "URL": "https://github.com/sensebox/openSenseMap-API",
+        "Data-Points-Count": 14,
+        "stars": 30,
+        "forks": 26,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "API for opensensemap.org"
+    },
+    {
+        "full-name": "bennington-hardware-hacking-2019/pos_system",
+        "URL": "https://github.com/bennington-hardware-hacking-2019/pos_system",
+        "Data-Points-Count": 8,
+        "stars": 30,
+        "forks": 12,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Automated Point of Sale System using NFC"
+    },
+    {
+        "full-name": "syscoin/syscoin1",
+        "URL": "https://github.com/syscoin/syscoin1",
+        "Data-Points-Count": 52,
+        "stars": 29,
+        "forks": 30,
+        "language": "C++",
+        "is-fork": false,
+        "description": "Syscoin is a crypto currency that is universally merge-mineable and offers a unique variety of services including decentralized identities, marketplaces and certificate management, escrow, asset token issuance platform capabilities directly on the blockchain."
+    },
+    {
+        "full-name": "SIDN/spin",
+        "URL": "https://github.com/SIDN/spin",
+        "Data-Points-Count": 9,
+        "stars": 28,
+        "forks": 7,
+        "language": "C",
+        "is-fork": false,
+        "description": "SPIN Core Software"
+    },
+    {
+        "full-name": "microsoft/vscode-azure-iot-edge",
+        "URL": "https://github.com/microsoft/vscode-azure-iot-edge",
+        "Data-Points-Count": 6,
+        "stars": 28,
+        "forks": 20,
+        "language": "HTML",
+        "is-fork": false,
+        "description": "Azure IoT Edge for Visual Studio Code"
+    },
+    {
+        "full-name": "MCS-Lite/mcs-lite-app",
+        "URL": "https://github.com/MCS-Lite/mcs-lite-app",
+        "Data-Points-Count": 22,
+        "stars": 27,
+        "forks": 10,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "An on-premises Internet of Things cloud platform, which can be quickly built and get started with."
+    },
+    {
+        "full-name": "pihome-shc/pihome",
+        "URL": "https://github.com/pihome-shc/pihome",
+        "Data-Points-Count": 5,
+        "stars": 27,
+        "forks": 21,
+        "language": "HTML",
+        "is-fork": false,
+        "description": "PiHome - Smart Heating, Ventilation and Air Conditioning (HVAC)"
+    },
+    {
+        "full-name": "graniticio/granitic",
+        "URL": "https://github.com/graniticio/granitic",
+        "Data-Points-Count": 8,
+        "stars": 27,
+        "forks": 8,
+        "language": "Go",
+        "is-fork": false,
+        "description": "Web/micro-services and IoC framework for Golang developers"
+    },
+    {
+        "full-name": "grisp/grisp-software",
+        "URL": "https://github.com/grisp/grisp-software",
+        "Data-Points-Count": 5,
+        "stars": 26,
+        "forks": 6,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Toolchain and Examples for GRISP"
+    },
+    {
+        "full-name": "nebula-orchestrator/worker",
+        "URL": "https://github.com/nebula-orchestrator/worker",
+        "Data-Points-Count": 10,
+        "stars": 26,
+        "forks": 6,
+        "language": "Python",
+        "is-fork": false,
+        "description": "The worker node manager container which manages nebula nodes"
+    },
+    {
+        "full-name": "iobroker-community-adapters/ioBroker.hue",
+        "URL": "https://github.com/iobroker-community-adapters/ioBroker.hue",
+        "Data-Points-Count": 4,
+        "stars": 26,
+        "forks": 25,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "Control Philips Hue Bridge"
+    },
+    {
+        "full-name": "rauc/rauc-hawkbit",
+        "URL": "https://github.com/rauc/rauc-hawkbit",
+        "Data-Points-Count": 5,
+        "stars": 25,
+        "forks": 14,
+        "language": "Python",
+        "is-fork": false,
+        "description": "RAUC hawkBit Client"
+    },
+    {
+        "full-name": "unitsofmeasurement/unit-ri",
+        "URL": "https://github.com/unitsofmeasurement/unit-ri",
+        "Data-Points-Count": 6,
+        "stars": 25,
+        "forks": 18,
+        "language": "Java",
+        "is-fork": false,
+        "description": "JSR 363 - Reference Implementation"
+    },
+    {
+        "full-name": "named-data-iot/ndn-lite",
+        "URL": "https://github.com/named-data-iot/ndn-lite",
+        "Data-Points-Count": 15,
+        "stars": 23,
+        "forks": 8,
+        "language": "C",
+        "is-fork": false,
+        "description": "A lightweight NDN protocol stack with high-level application support including security bootstrapping, access control, trust management, etc."
+    },
+    {
+        "full-name": "JakeHartnell/Grow.js",
+        "URL": "https://github.com/JakeHartnell/Grow.js",
+        "Data-Points-Count": 7,
+        "stars": 23,
+        "forks": 11,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "Now a package in Grow-IoT"
+    },
+    {
+        "full-name": "DLTcollab/tangle-accelerator",
+        "URL": "https://github.com/DLTcollab/tangle-accelerator",
+        "Data-Points-Count": 0,
+        "stars": 23,
+        "forks": 14,
+        "language": "C",
+        "is-fork": false,
+        "description": "Accelerate IOTA transactions by caching API requests and redirecting to faster alternatives"
+    },
+    {
+        "full-name": "onkwon/yaos",
+        "URL": "https://github.com/onkwon/yaos",
+        "Data-Points-Count": 5,
+        "stars": 23,
+        "forks": 16,
+        "language": "C",
+        "is-fork": false,
+        "description": "An embedded operating system for ARM Cortex-M based microcontrollers"
+    },
+    {
+        "full-name": "Anylsite/anyl-wallet",
+        "URL": "https://github.com/Anylsite/anyl-wallet",
+        "Data-Points-Count": 9,
+        "stars": 23,
+        "forks": 14,
+        "language": "C",
+        "is-fork": false,
+        "description": "🏦 Anyl Embedded Wallet for Internet of Things"
+    },
+    {
+        "full-name": "IBM/carbon-addons-iot-react",
+        "URL": "https://github.com/IBM/carbon-addons-iot-react",
+        "Data-Points-Count": 0,
+        "stars": 23,
+        "forks": 17,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "A collection of React components shared between all IBM Watson IoT products."
+    },
+    {
+        "full-name": "xshellinc/iotit",
+        "URL": "https://github.com/xshellinc/iotit",
+        "Data-Points-Count": 0,
+        "stars": 22,
+        "forks": 1,
+        "language": "Go",
+        "is-fork": false,
+        "description": "Flashing Tool for SBCs"
+    },
+    {
+        "full-name": "telefonicaid/iotagent-json",
+        "URL": "https://github.com/telefonicaid/iotagent-json",
+        "Data-Points-Count": 27,
+        "stars": 21,
+        "forks": 56,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "IoT Agent for a JSON based protocol (with HTTP, MQTT and AMQP transports)"
+    },
+    {
+        "full-name": "srotya/sidewinder",
+        "URL": "https://github.com/srotya/sidewinder",
+        "Data-Points-Count": 10,
+        "stars": 20,
+        "forks": 8,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Fast and scalable timeseries database"
+    },
+    {
+        "full-name": "nebula-orchestrator/manager",
+        "URL": "https://github.com/nebula-orchestrator/manager",
+        "Data-Points-Count": 5,
+        "stars": 20,
+        "forks": 8,
+        "language": "Python",
+        "is-fork": false,
+        "description": "The API endpoint that manages nebula orchestrator clusters"
+    },
+    {
+        "full-name": "telefonicaid/lightweightm2m-iotagent",
+        "URL": "https://github.com/telefonicaid/lightweightm2m-iotagent",
+        "Data-Points-Count": 13,
+        "stars": 19,
+        "forks": 25,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "IoT Agent accepting COAP requests. Designed to be a bridge between the OMA Lightweight M2M protocol and the NGSI interface."
+    },
+    {
+        "full-name": "lueschem/edi",
+        "URL": "https://github.com/lueschem/edi",
+        "Data-Points-Count": 14,
+        "stars": 19,
+        "forks": 5,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Embedded development infrastructure."
+    },
+    {
+        "full-name": "WoTTsecurity/agent",
+        "URL": "https://github.com/WoTTsecurity/agent",
+        "Data-Points-Count": 2,
+        "stars": 18,
+        "forks": 10,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Simple security audit for linux systems"
+    },
+    {
+        "full-name": "darconeous/libnyoci",
+        "URL": "https://github.com/darconeous/libnyoci",
+        "Data-Points-Count": 6,
+        "stars": 18,
+        "forks": 8,
+        "language": "C",
+        "is-fork": false,
+        "description": "A flexible CoAP stack for embedded devices and computers. RFC7252 compatible."
+    },
+    {
+        "full-name": "Picolab/pico-engine",
+        "URL": "https://github.com/Picolab/pico-engine",
+        "Data-Points-Count": 68,
+        "stars": 17,
+        "forks": 3,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "An implementation of the pico-engine hosted on node.js"
+    },
+    {
+        "full-name": "CommonGarden/Grow-IoT",
+        "URL": "https://github.com/CommonGarden/Grow-IoT",
+        "Data-Points-Count": 14,
+        "stars": 17,
+        "forks": 1,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "Software packages for smart growing environments."
+    },
+    {
+        "full-name": "telefonicaid/iotagent-ul",
+        "URL": "https://github.com/telefonicaid/iotagent-ul",
+        "Data-Points-Count": 33,
+        "stars": 17,
+        "forks": 41,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "IoT Agent for a UltraLight 2.0 based protocol (with HTTP, MQTT and AMQP transports) "
+    },
+    {
+        "full-name": "grisp/rebar3_grisp",
+        "URL": "https://github.com/grisp/rebar3_grisp",
+        "Data-Points-Count": 8,
+        "stars": 15,
+        "forks": 6,
+        "language": "Erlang",
+        "is-fork": false,
+        "description": "Rebar plug-in for GRiSP"
+    },
+    {
+        "full-name": "AstroPrint/OctoPrint-AstroPrint",
+        "URL": "https://github.com/AstroPrint/OctoPrint-AstroPrint",
+        "Data-Points-Count": 14,
+        "stars": 15,
+        "forks": 4,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Connect your OctoPrint device to the AstroPrint 3D Printing Cloud "
+    },
+    {
+        "full-name": "rbccps-iisc/ideam",
+        "URL": "https://github.com/rbccps-iisc/ideam",
+        "Data-Points-Count": 39,
+        "stars": 14,
+        "forks": 10,
+        "language": "Python",
+        "is-fork": false,
+        "description": "City Data Exchange & Analytics Stack (CDEAS) for Smart Cities"
+    }
+]

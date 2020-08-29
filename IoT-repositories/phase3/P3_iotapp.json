@@ -1,0 +1,33 @@
+[
+    {
+        "full-name": "klausahrenberg/WThermostatBeca",
+        "URL": "https://github.com/klausahrenberg/WThermostatBeca",
+        "Data-Points-Count": 3,
+        "stars": 81,
+        "forks": 18,
+        "language": "C++",
+        "is-fork": false,
+        "description": "Replaces original Tuya firmware on Beca thermostat with ESP8266 wifi module"
+    },
+    {
+        "full-name": "quickbird-uk/QuickbirdUWPDashboard",
+        "URL": "https://github.com/quickbird-uk/QuickbirdUWPDashboard",
+        "Data-Points-Count": 13,
+        "stars": 19,
+        "forks": 5,
+        "language": "C#",
+        "is-fork": false,
+        "description": "Quickbird UWP App and Server"
+    },
+    {
+        "full-name": "MinimSecure/unum-sdk",
+        "URL": "https://github.com/MinimSecure/unum-sdk",
+        "Data-Points-Count": 5,
+        "stars": 17,
+        "forks": 9,
+        "language": "C",
+        "is-fork": false,
+        "description": "Unum agent source code, tools, and documentation",
+        "isiot":"uncertain: seems like a edge service"
+    }
+]

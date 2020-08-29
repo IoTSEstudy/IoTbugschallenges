@@ -1,0 +1,82 @@
+[
+    {
+        "full-name": "felHR85/UsbSerial",
+        "URL": "https://github.com/felHR85/UsbSerial",
+        "Data-Points-Count": 2,
+        "stars": 1047,
+        "forks": 386,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Usb serial controller for Android"
+    },
+    {
+        "full-name": "microsoft/EdgeML",
+        "URL": "https://github.com/microsoft/EdgeML",
+        "Data-Points-Count": 0,
+        "stars": 769,
+        "forks": 205,
+        "language": "C++",
+        "is-fork": false,
+        "description": "This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India."
+    },
+    {
+        "full-name": "opendata-stuttgart/sensors-software",
+        "URL": "https://github.com/opendata-stuttgart/sensors-software",
+        "Data-Points-Count": 25,
+        "stars": 382,
+        "forks": 224,
+        "language": "C++",
+        "is-fork": false,
+        "description": "sourcecode for reading sensor data"
+    },
+    {
+        "full-name": "song940/node-bluetooth",
+        "URL": "https://github.com/song940/node-bluetooth",
+        "Data-Points-Count": 7,
+        "stars": 120,
+        "forks": 31,
+        "language": "C++",
+        "is-fork": false,
+        "description": ":large_blue_diamond:😬Bluetooth serial port communication for Node.js"
+    },
+    {
+        "full-name": "klausahrenberg/WThermostatBeca",
+        "URL": "https://github.com/klausahrenberg/WThermostatBeca",
+        "Data-Points-Count": 3,
+        "stars": 81,
+        "forks": 18,
+        "language": "C++",
+        "is-fork": false,
+        "description": "Replaces original Tuya firmware on Beca thermostat with ESP8266 wifi module"
+    },
+    {
+        "full-name": "noddos/noddos",
+        "URL": "https://github.com/noddos/noddos",
+        "Data-Points-Count": 14,
+        "stars": 73,
+        "forks": 14,
+        "language": "C++",
+        "is-fork": false,
+        "description": "Noddos client"
+    },
+    {
+        "full-name": "theCore-embedded/theCore",
+        "URL": "https://github.com/theCore-embedded/theCore",
+        "Data-Points-Count": 0,
+        "stars": 62,
+        "forks": 19,
+        "language": "C++",
+        "is-fork": false,
+        "description": "theCore: C++ embedded framework"
+    },
+    {
+        "full-name": "casanet/casanet-server",
+        "URL": "https://github.com/casanet/casanet-server",
+        "Data-Points-Count": 11,
+        "stars": 32,
+        "forks": 8,
+        "language": "TypeScript",
+        "is-fork": false,
+        "description": "Open-source server and dashboard to control IoT devices in a local home network"
+    }
+]

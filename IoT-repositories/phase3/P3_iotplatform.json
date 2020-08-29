@@ -1,0 +1,154 @@
+[
+    {
+        "full-name": "thingsboard/thingsboard",
+        "URL": "https://github.com/thingsboard/thingsboard",
+        "Data-Points-Count": 3,
+        "stars": 5183,
+        "forks": 1756,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Open-source IoT Platform - Device management, data collection, processing and visualization."
+    },
+    {
+        "full-name": "blynkkk/blynk-library",
+        "URL": "https://github.com/blynkkk/blynk-library",
+        "Data-Points-Count": 67,
+        "stars": 2554,
+        "forks": 732,
+        "language": "C++",
+        "is-fork": false,
+        "description": "Blynk library for embedded hardware. Works with Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, Energia, ARM mbed, etc."
+    },
+    {
+        "full-name": "cesanta/mongoose-os",
+        "URL": "https://github.com/cesanta/mongoose-os",
+        "Data-Points-Count": 7,
+        "stars": 1929,
+        "forks": 383,
+        "language": "C",
+        "is-fork": false,
+        "description": "Mongoose OS - an IoT Firmware Development Framework. Supported microcontrollers: ESP32, ESP8266, CC3220, CC3200, STM32F4, STM32L4, STM32F7. Amazon AWS IoT, Microsoft Azure, Google IoT Core integrated. Code in C or JavaScript."
+    },
+    {
+        "full-name": "blynkkk/blynk-server",
+        "URL": "https://github.com/blynkkk/blynk-server",
+        "Data-Points-Count": 300,
+        "stars": 1717,
+        "forks": 616,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Blynk is an Internet of Things Platform aimed to simplify building mobile and web applications for the Internet of Things. Easily connect 400+ hardware models like Arduino, ESP8266, ESP32, Raspberry Pi and similar MCUs and drag-n-drop IOT mobile apps for iOS and Android in 5 minutes"
+    },
+    {
+        "full-name": "mainflux/mainflux",
+        "URL": "https://github.com/mainflux/mainflux",
+        "Data-Points-Count": 66,
+        "stars": 796,
+        "forks": 278,
+        "language": "Go",
+        "is-fork": false,
+        "description": "Industrial IoT Messaging and Device Management Platform"
+    },
+    {
+        "full-name": "node-opcua/node-opcua",
+        "URL": "https://github.com/node-opcua/node-opcua",
+        "Data-Points-Count": 103,
+        "stars": 785,
+        "forks": 325,
+        "language": "TypeScript",
+        "is-fork": false,
+        "description": "an implementation of a OPC UA stack fully written in javascript and nodejs - http://node-opcua.github.io/",
+        "isiot": "uncertain: it's an interoperability standard"
+    },
+    {
+        "full-name": "sitewhere/sitewhere",
+        "URL": "https://github.com/sitewhere/sitewhere",
+        "Data-Points-Count": 144,
+        "stars": 619,
+        "forks": 275,
+        "language": "Java",
+        "is-fork": false,
+        "description": "SiteWhere is an industrial strength open-source application enablement platform for the Internet of Things (IoT). It provides a multi-tenant microservice-based infrastructure that includes device/asset management, data ingestion, big-data storage, and integration through a modern, scalable architecture.  SiteWhere provides REST APIs for all system functionality.  SiteWhere provides SDKs for many common device platforms including Android, iOS, Arduino, and any Java-capable platform such as Raspberry Pi rapidly accelerating the speed of innovation."
+    },
+    {
+        "full-name": "whitecatboard/Lua-RTOS-ESP32",
+        "URL": "https://github.com/whitecatboard/Lua-RTOS-ESP32",
+        "Data-Points-Count": 4,
+        "stars": 459,
+        "forks": 132,
+        "language": "C",
+        "is-fork": false,
+        "description": "Lua RTOS for ESP32",
+        "isiot":"uncertain: RTOS for devices: too much hardware specific"
+    },
+    {
+        "full-name": "DexterInd/GrovePi",
+        "URL": "https://github.com/DexterInd/GrovePi",
+        "Data-Points-Count": 0,
+        "stars": 397,
+        "forks": 418,
+        "language": "Python",
+        "is-fork": false,
+        "description": "GrovePi is an open source platform for connecting Grove Sensors to the Raspberry Pi."
+    },
+    {
+        "full-name": "freedomotic/freedomotic",
+        "URL": "https://github.com/freedomotic/freedomotic",
+        "Data-Points-Count": 21,
+        "stars": 313,
+        "forks": 476,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Open IoT Framework"
+    },
+    {
+        "full-name": "grodansparadis/vscp",
+        "URL": "https://github.com/grodansparadis/vscp",
+        "Data-Points-Count": 42,
+        "stars": 32,
+        "forks": 16,
+        "language": "C++",
+        "is-fork": false,
+        "description": "VSCP (Very Simple Control Protocol) IoT/m2m framework"
+    },
+    {
+        "full-name": "foss-for-synopsys-dwc-arc-processors/embarc_osp",
+        "URL": "https://github.com/foss-for-synopsys-dwc-arc-processors/embarc_osp",
+        "Data-Points-Count": 9,
+        "stars": 31,
+        "forks": 38,
+        "language": "C",
+        "is-fork": false,
+        "description": "embARC Open Software Platform (OSP) - An embedded software distribution for IoT and other embedded applications for ARC"
+    },
+    {
+        "full-name": "vapor-ware/synse-server",
+        "URL": "https://github.com/vapor-ware/synse-server",
+        "Data-Points-Count": 21,
+        "stars": 23,
+        "forks": 8,
+        "language": "Python",
+        "is-fork": false,
+        "description": "An HTTP API for the monitoring and control of physical and virtual devices"
+    },
+    {
+        "full-name": "ARMmbed/mbed-os-example-client",
+        "URL": "https://github.com/ARMmbed/mbed-os-example-client",
+        "Data-Points-Count": 0,
+        "stars": 20,
+        "forks": 62,
+        "language": "C++",
+        "is-fork": false,
+        "description": "DEPRECATED: This is the mbed Client example application for mbed OS."
+    },
+    {
+        "full-name": "rbccps-iisc/ideam",
+        "URL": "https://github.com/rbccps-iisc/ideam",
+        "Data-Points-Count": 39,
+        "stars": 14,
+        "forks": 10,
+        "language": "Python",
+        "is-fork": false,
+        "description": "City Data Exchange & Analytics Stack (CDEAS) for Smart Cities"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "full-name": "thingsboard/thingsboard",
+        "URL": "https://github.com/thingsboard/thingsboard",
+        "Data-Points-Count": 3,
+        "stars": 5183,
+        "forks": 1756,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Open-source IoT Platform - Device management, data collection, processing and visualization."
+    },
+    {
+        "full-name": "blynkkk/blynk-library",
+        "URL": "https://github.com/blynkkk/blynk-library",
+        "Data-Points-Count": 67,
+        "stars": 2554,
+        "forks": 732,
+        "language": "C++",
+        "is-fork": false,
+        "description": "Blynk library for embedded hardware. Works with Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, Energia, ARM mbed, etc."
+    },
+    {
+        "full-name": "cesanta/mongoose-os",
+        "URL": "https://github.com/cesanta/mongoose-os",
+        "Data-Points-Count": 7,
+        "stars": 1929,
+        "forks": 383,
+        "language": "C",
+        "is-fork": false,
+        "description": "Mongoose OS - an IoT Firmware Development Framework. Supported microcontrollers: ESP32, ESP8266, CC3220, CC3200, STM32F4, STM32L4, STM32F7. Amazon AWS IoT, Microsoft Azure, Google IoT Core integrated. Code in C or JavaScript."
+    },
+    {
+        "full-name": "blynkkk/blynk-server",
+        "URL": "https://github.com/blynkkk/blynk-server",
+        "Data-Points-Count": 300,
+        "stars": 1717,
+        "forks": 616,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Blynk is an Internet of Things Platform aimed to simplify building mobile and web applications for the Internet of Things. Easily connect 400+ hardware models like Arduino, ESP8266, ESP32, Raspberry Pi and similar MCUs and drag-n-drop IOT mobile apps for iOS and Android in 5 minutes"
+    },
+    {
+        "full-name": "chkr1011/MQTTnet",
+        "URL": "https://github.com/chkr1011/MQTTnet",
+        "Data-Points-Count": 58,
+        "stars": 1314,
+        "forks": 378,
+        "language": "C#",
+        "is-fork": false,
+        "description": "MQTTnet is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation from http://mqtt.org/."
+    },
+    {
+        "full-name": "mainflux/mainflux",
+        "URL": "https://github.com/mainflux/mainflux",
+        "Data-Points-Count": 66,
+        "stars": 796,
+        "forks": 278,
+        "language": "Go",
+        "is-fork": false,
+        "description": "Industrial IoT Messaging and Device Management Platform"
+    },
+    {
+        "full-name": "node-opcua/node-opcua",
+        "URL": "https://github.com/node-opcua/node-opcua",
+        "Data-Points-Count": 103,
+        "stars": 785,
+        "forks": 325,
+        "language": "TypeScript",
+        "is-fork": false,
+        "description": "an implementation of a OPC UA stack fully written in javascript and nodejs - http://node-opcua.github.io/"
+    },
+    {
+        "full-name": "sitewhere/sitewhere",
+        "URL": "https://github.com/sitewhere/sitewhere",
+        "Data-Points-Count": 144,
+        "stars": 619,
+        "forks": 275,
+        "language": "Java",
+        "is-fork": false,
+        "description": "SiteWhere is an industrial strength open-source application enablement platform for the Internet of Things (IoT). It provides a multi-tenant microservice-based infrastructure that includes device/asset management, data ingestion, big-data storage, and integration through a modern, scalable architecture.  SiteWhere provides REST APIs for all system functionality.  SiteWhere provides SDKs for many common device platforms including Android, iOS, Arduino, and any Java-capable platform such as Raspberry Pi rapidly accelerating the speed of innovation."
+    },
+    {
+        "full-name": "whitecatboard/Lua-RTOS-ESP32",
+        "URL": "https://github.com/whitecatboard/Lua-RTOS-ESP32",
+        "Data-Points-Count": 4,
+        "stars": 459,
+        "forks": 132,
+        "language": "C",
+        "is-fork": false,
+        "description": "Lua RTOS for ESP32"
+    },
+    {
+        "full-name": "DexterInd/GrovePi",
+        "URL": "https://github.com/DexterInd/GrovePi",
+        "Data-Points-Count": 0,
+        "stars": 397,
+        "forks": 418,
+        "language": "Python",
+        "is-fork": false,
+        "description": "GrovePi is an open source platform for connecting Grove Sensors to the Raspberry Pi."
+    },
+    {
+        "full-name": "freedomotic/freedomotic",
+        "URL": "https://github.com/freedomotic/freedomotic",
+        "Data-Points-Count": 21,
+        "stars": 313,
+        "forks": 476,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Open IoT Framework"
+    },
+    {
+        "full-name": "msgflo/msgflo",
+        "URL": "https://github.com/msgflo/msgflo",
+        "Data-Points-Count": 15,
+        "stars": 127,
+        "forks": 13,
+        "language": "CoffeeScript",
+        "is-fork": false,
+        "description": "Distributed Flow-Based Programming via message queues"
+    },
+    {
+        "full-name": "owsolutions/angular5-iot-dashboard",
+        "URL": "https://github.com/owsolutions/angular5-iot-dashboard",
+        "Data-Points-Count": 0,
+        "stars": 127,
+        "forks": 66,
+        "language": "TypeScript",
+        "is-fork": false,
+        "description": "Multipurpose dashboard admin for IoT softwares, remote control, user interface. Develop your client dashboards in Angular 5 with vast variety of components available."
+    },
+    {
+        "full-name": "cn-uofbasel/ccn-lite",
+        "URL": "https://github.com/cn-uofbasel/ccn-lite",
+        "Data-Points-Count": 72,
+        "stars": 62,
+        "forks": 53,
+        "language": "C",
+        "is-fork": false,
+        "description": "CCN-lite, a lightweight implementation of the CCNx protocol and its variations"
+    },
+    {
+        "full-name": "freedomotic/fd-vue-webapp",
+        "URL": "https://github.com/freedomotic/fd-vue-webapp",
+        "Data-Points-Count": 0,
+        "stars": 33,
+        "forks": 52,
+        "language": "Vue",
+        "is-fork": false,
+        "description": "A Vue.js web application for Freedomotic Open IoT framework"
+    },
+    {
+        "full-name": "grodansparadis/vscp",
+        "URL": "https://github.com/grodansparadis/vscp",
+        "Data-Points-Count": 42,
+        "stars": 32,
+        "forks": 16,
+        "language": "C++",
+        "is-fork": false,
+        "description": "VSCP (Very Simple Control Protocol) IoT/m2m framework"
+    },
+    {
+        "full-name": "foss-for-synopsys-dwc-arc-processors/embarc_osp",
+        "URL": "https://github.com/foss-for-synopsys-dwc-arc-processors/embarc_osp",
+        "Data-Points-Count": 9,
+        "stars": 31,
+        "forks": 38,
+        "language": "C",
+        "is-fork": false,
+        "description": "embARC Open Software Platform (OSP) - An embedded software distribution for IoT and other embedded applications for ARC"
+    },
+    {
+        "full-name": "IBMStreams/streamsx.messaging",
+        "URL": "https://github.com/IBMStreams/streamsx.messaging",
+        "Data-Points-Count": 26,
+        "stars": 30,
+        "forks": 32,
+        "language": "Java",
+        "is-fork": false,
+        "description": "This toolkit is focused on interacting with popular messaging systems such as Kafka, JMS, XMS, and MQTT."
+    },
+    {
+        "full-name": "nebula-orchestrator/worker",
+        "URL": "https://github.com/nebula-orchestrator/worker",
+        "Data-Points-Count": 10,
+        "stars": 26,
+        "forks": 6,
+        "language": "Python",
+        "is-fork": false,
+        "description": "The worker node manager container which manages nebula nodes"
+    },
+    {
+        "full-name": "vapor-ware/synse-server",
+        "URL": "https://github.com/vapor-ware/synse-server",
+        "Data-Points-Count": 21,
+        "stars": 23,
+        "forks": 8,
+        "language": "Python",
+        "is-fork": false,
+        "description": "An HTTP API for the monitoring and control of physical and virtual devices"
+    },
+    {
+        "full-name": "ARMmbed/mbed-os-example-client",
+        "URL": "https://github.com/ARMmbed/mbed-os-example-client",
+        "Data-Points-Count": 0,
+        "stars": 20,
+        "forks": 62,
+        "language": "C++",
+        "is-fork": false,
+        "description": "DEPRECATED: This is the mbed Client example application for mbed OS."
+    },
+    {
+        "full-name": "nebula-orchestrator/manager",
+        "URL": "https://github.com/nebula-orchestrator/manager",
+        "Data-Points-Count": 5,
+        "stars": 20,
+        "forks": 8,
+        "language": "Python",
+        "is-fork": false,
+        "description": "The API endpoint that manages nebula orchestrator clusters"
+    },
+    {
+        "full-name": "rbccps-iisc/ideam",
+        "URL": "https://github.com/rbccps-iisc/ideam",
+        "Data-Points-Count": 39,
+        "stars": 14,
+        "forks": 10,
+        "language": "Python",
+        "is-fork": false,
+        "description": "City Data Exchange & Analytics Stack (CDEAS) for Smart Cities"
+    },
+    {
+        "full-name": "zentropi/python-zentropi",
+        "URL": "https://github.com/zentropi/python-zentropi",
+        "Data-Points-Count": 6,
+        "stars": 11,
+        "forks": 4,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Script Your World"
+    }
+]

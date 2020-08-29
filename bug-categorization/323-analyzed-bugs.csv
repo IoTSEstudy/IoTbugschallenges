@@ -1,0 +1,324 @@
+ID,html_url,bug_categories,root_cause,fault_location
+IDEAM/24,https://github.com/rbccps-iisc/ideam/issues/24,Build and installation issues,CNF,middleware
+OPENHAB-CORE/701,https://github.com/openhab/openhab-core/pull/701,performance/crash issues,SWP,cloud 
+TUYA-CONVERT/187,https://github.com/ct-Open-Source/tuya-convert/issues/187,"Build and installation issues, Device discovery and identification issues, Device binding/association/ pairing issues",CNF,middleware
+DEVICE-OS/1707,https://github.com/particle-iot/device-os/pull/1707,"Device constraint issues, Boot/reboot or physical issues",HWP,hardware
+IOTAGENT-UL/235,https://github.com/telefonicaid/iotagent-ul/issues/235,"Protocol incompatibility issues, Device properties status issues, Device registration and provisioning issues",SWP,cloud
+DEVICE-OS/1639,https://github.com/particle-iot/device-os/pull/1639,"Firmware exception/hang issues, Network reset/mode-change issues",MEM,hardware
+TERRARIUMPI/192,https://github.com/theyosh/TerrariumPI/issues/192,"Firmware exception/hang issues, Device constraint issues, performance/crash issues",CON,hardware
+AZURE-IOT-SDK-C/657,https://github.com/Azure/azure-iot-sdk-c/issues/657,"Auth issues, Device registration and provisioning issues",CNF,cloud
+DEVICE-OS/1531,https://github.com/particle-iot/device-os/pull/1531,performance/crash issues,CON,hardware
+ZWAVE2MQTT/173,https://github.com/OpenZWave/Zwave2Mqtt/issues/173,Build and installation issues,DEP,middleware
+AZURE-IOT-SDK-C/906,https://github.com/Azure/azure-iot-sdk-c/issues/906,Build and installation issues,DEP,cloud
+BLYNK-SERVER/1160,https://github.com/blynkkk/blynk-server/issues/1160,UI/usability issues,SWP,application
+DEVKIT-SDK/431,https://github.com/microsoft/devkit-sdk/issues/431,Device registration and provisioning issues,TM,cloud
+SENSOR-ESP32/21,https://github.com/openairproject/sensor-esp32/issues/21,Network discovery/set-up issues,SWP,hardware
+AZURE-IOT-SDK-C/755,https://github.com/Azure/azure-iot-sdk-c/issues/755,Build and installation issues,DEP,cloud
+VITOWIFI/28,https://github.com/bertmelis/VitoWiFi/issues/28,Network discovery/set-up issues,MEM,hardware
+IDEAM/44,https://github.com/rbccps-iisc/ideam/pull/44,Build and installation issues,CNF,cloud
+KUBEEDGE/1028,https://github.com/kubeedge/kubeedge/pull/1028,Device discovery and identification issues,MEM,middleware
+HOMIE-ESP8266/639,https://github.com/homieiot/homie-esp8266/issues/639,"Build and installation issues, UI/usability issues",CNF,hardware
+DEVICE-OS/1252,https://github.com/particle-iot/device-os/issues/1252,"Third-party issues, Disconnetion issues",SEM,hardware
+MYSENSORS/1319,https://github.com/mysensors/MySensors/pull/1319,Message payload issues,HWP,hardware
+KUBEEDGE/811,https://github.com/kubeedge/kubeedge/issues/811,Build and installation issues,DEP,middleware
+OPENHAB-IOS/321,https://github.com/openhab/openhab-ios/issues/321,UI/usability issues,SWP,application
+IOTAGENT-UL/97,https://github.com/telefonicaid/iotagent-ul/issues/97,"Protocol incompatibility issues, Message delivery issues",TM,cloud
+ZMNINJA/232,https://github.com/pliablepixels/zmNinja/issues/232,UI/usability issues,SWP,application
+DEVICEHIVE-JAVA-SERVER/107,https://github.com/devicehive/devicehive-java-server/issues/107,Auth issues,MEM,cloud
+AZURE-IOT-SDK-C/814,https://github.com/Azure/azure-iot-sdk-c/issues/814,Connection establishment issues,SWP,cloud
+ZMNINJA/90,https://github.com/pliablepixels/zmNinja/issues/90,UI/usability issues,SWP,application
+NODE-TRADFRI-CLIENT/33,https://github.com/AlCalzone/node-tradfri-client/issues/33,Message payload issues,EC,middleware
+BLYNK-LIBRARY/345,https://github.com/blynkkk/blynk-library/issues/345,"Protocol incompatibility issues, Third-party issues, Device registration and provisioning issues",EC,hardware
+DEVICE-OS/1262,https://github.com/particle-iot/device-os/issues/1262,Device properties status issues,HWP,hardware
+BLYNK-LIBRARY/310,https://github.com/blynkkk/blynk-library/issues/310,"Device registration and provisioning issues, Device connection status issues",DEP,hardware
+AMAZON-DASH/15,https://github.com/Nekmo/amazon-dash/issues/15,Build and installation issues,DEP,application
+DEVICE-OS/1567,https://github.com/particle-iot/device-os/pull/1567,"Firmware update issues, Device constraint issues, Message timing/rate/order issues, Unreliable network  issues",TM,hardware
+MCS-LITE-APP/212,https://github.com/MCS-Lite/mcs-lite-app/pull/212,UI/usability issues,SWP,application 
+AZURE-IOT-SDK-C/774,https://github.com/Azure/azure-iot-sdk-c/issues/774,"Protocol incompatibility issues, performance/crash issues",MEM,cloud
+KUBEEDGE/1243,https://github.com/kubeedge/kubeedge/issues/1243,Device properties status issues,CNF,middleware
+DEVICE-OS/1270,https://github.com/particle-iot/device-os/pull/1270,"Firmware update issues, Message timing/rate/order issues, Message payload issues",SEM,hardware
+IOT-EDGE-V1/541,https://github.com/Azure/iot-edge-v1/issues/541,"Third-party issues, Message delivery issues",MEM,middleware
+KURA/218,https://github.com/eclipse/kura/issues/218,UI/usability issues,SWP,middleware
+MYSENSORS/910,https://github.com/mysensors/MySensors/issues/910,Build and installation issues,SWP,hardware
+HOMIE-ESP8266/22,https://github.com/homieiot/homie-esp8266/issues/22,Build and installation issues,DEP,hardware
+BLYNK-SERVER/1305,https://github.com/blynkkk/blynk-server/issues/1305,"Device properties status issues, Device connection status issues",DEP,cloud
+MYSENSORS/1038,https://github.com/mysensors/MySensors/issues/1038,"Device constraint issues, Device properties status issues",SWP,hardware
+IOT-EDGE-V1/474,https://github.com/Azure/iot-edge-v1/issues/474,"Message delivery issues, Message timing/rate/order issues",TM,middleware
+OPENHAB-IOS/524,https://github.com/openhab/openhab-ios/issues/524,"Device properties status issues, UI/usability issues",SWP,application: ios 
+DEVKIT-SDK/296,https://github.com/microsoft/devkit-sdk/issues/296,Device properties status issues,SWP,cloud
+DEVICE-OS/1926,https://github.com/particle-iot/device-os/issues/1926,Device constraint issues,MEM,hardware
+HAWKBIT/912,https://github.com/eclipse/hawkbit/pull/912,UI/usability issues,SWP,middleware
+HAWKBIT/828,https://github.com/eclipse/hawkbit/pull/828,Device registration and provisioning issues,CON,middleware
+DEVKIT-SDK/716,https://github.com/microsoft/devkit-sdk/issues/716,"Message delivery issues, Network reset/mode-change issues",MEM,hardware
+DEVICE-OS/1308,https://github.com/particle-iot/device-os/pull/1308,Message delivery issues,SEM,hardware 
+DEVKIT-SDK/742,https://github.com/microsoft/devkit-sdk/issues/742,Build and installation issues,DEP,hardware
+AZURE-IOT-SDK-C/445,https://github.com/Azure/azure-iot-sdk-c/issues/445,"Device registration and provisioning issues, Auth issues",CNF,hardware
+DEVICE-OS/1236,https://github.com/particle-iot/device-os/pull/1236,"Message delivery issues, Message payload issues",SWP,hardware 
+GLADYS/218,https://github.com/GladysAssistant/Gladys/issues/218,UI/usability issues,SWP,application
+ZMNINJA/451,https://github.com/pliablepixels/zmNinja/issues/451,Message payload issues,EC,cloud
+DEVKIT-SDK/147,https://github.com/microsoft/devkit-sdk/issues/147,Build and installation issues,DEP,hardware
+KUBEEDGE/257,https://github.com/kubeedge/kubeedge/issues/257,Device properties status issues,TM,cloud
+SHADOWNODE/499,https://github.com/yodaos-project/ShadowNode/issues/499,Message delivery issues,SEM,hardware:device
+TUYAPI/176,https://github.com/codetheweb/tuyapi/issues/176,Message payload issues,TM,cloud
+ZMNINJA/681,https://github.com/pliablepixels/zmNinja/issues/681,Third-party incompatibility issues,CNF,cloud
+NODE-TRADFRI-CLIENT/101,https://github.com/AlCalzone/node-tradfri-client/issues/101,"Protocol incompatibility issues, Device discovery and identification issues",SEM,middleware:gateway
+AMAZON-DASH/132,https://github.com/Nekmo/amazon-dash/issues/132,"Network discovery/set-up issues, Boot/reboot or physical issues",TM,application
+MYSENSORS/928,https://github.com/mysensors/MySensors/issues/928,"Message payload issues, Device incompatibility issues, Device binding/association/ pairing issues",TM, hardware
+BLYNK-SERVER/1348,https://github.com/blynkkk/blynk-server/issues/1348,"Auth issues, UI/usability issues",SWP,cloud
+AZURE-IOT-SDK-C/481,https://github.com/Azure/azure-iot-sdk-c/issues/481,"Device discovery and identification issues, Message payload issues",SEM,cloud
+ZMNINJA/256,https://github.com/pliablepixels/zmNinja/issues/256,UI/usability issues,SWP,application
+AZURE-IOT-SDK-C/688,https://github.com/Azure/azure-iot-sdk-c/issues/688,"Message delivery issues, Disconnetion issues, Reconnection issues",TM,cloud 
+VOR/12,https://github.com/futurice/vor/issues/12,UI/usability issues,SWP,application
+HOMIE-ESP8266/309,https://github.com/homieiot/homie-esp8266/issues/309,Message payload issues,SWP,hardware
+HOMIE-ESP8266/278,https://github.com/homieiot/homie-esp8266/issues/278,"Third-party issues, Build and installation issues",DEP,hardware
+OPENHAB-CORE/985,https://github.com/openhab/openhab-core/issues/985,Device properties status issues,SWP,cloud
+PARTICLE-CLI/154,https://github.com/particle-iot/particle-cli/issues/154,Build and installation issues,CNF,middleware 
+OPENHAB-CORE/1376,https://github.com/openhab/openhab-core/pull/1376,Rule action execution issues,SWP,cloud
+HOMIE-ESP8266/40,https://github.com/homieiot/homie-esp8266/issues/40,"Device properties status issues, Device registration and provisioning issues",SEM,hardware
+IOTAGENT-NODE-LIB/17,https://github.com/telefonicaid/iotagent-node-lib/issues/17,Device discovery and identification issues,CNF,cloud
+DEVICE-OS/1233,https://github.com/particle-iot/device-os/issues/1233,Connection establishment issues,DEP,hardware
+LIGHTWEIGHTM2M-IOTAGENT/109,https://github.com/telefonicaid/lightweightm2m-iotagent/issues/109,Firmware update issues,EC,middleware
+DEVICE-OS/1871,https://github.com/particle-iot/device-os/pull/1871,"Device constraint issues, Boot/reboot or physical issues, Message delivery issues, Device properties status issues",HWP,hardware 
+IOTAGENT-JSON/194,https://github.com/telefonicaid/iotagent-json/issues/194,Device properties status issues,SWP,middleware
+ZMNINJA/766,https://github.com/pliablepixels/zmNinja/issues/766,UI/usability issues,SWP,application
+AZURE-IOT-SDK-C/815,https://github.com/Azure/azure-iot-sdk-c/issues/815,"Protocol incompatibility issues, Device registration and provisioning issues, Message payload issues",CON,hardware
+BLYNK-LIBRARY/217,https://github.com/blynkkk/blynk-library/issues/217,Device properties status issues,DEP,application
+AZURE-IOT-SDK-C/750,https://github.com/Azure/azure-iot-sdk-c/issues/750,"Protocol incompatibility issues, Device properties status issues, Device connection status issues",SEM,hardware
+LELYLAN/88,https://github.com/lelylan/lelylan/issues/88,Device binding/association/ pairing issues,EC,cloud
+VOR/27,https://github.com/futurice/vor/issues/27,UI/usability issues,SWP,application 
+ZMNINJA/273,https://github.com/pliablepixels/zmNinja/issues/273,"Auth issues, Connection establishment issues",DEP,cloud
+ARDUINO-MQTT/135,https://github.com/256dpi/arduino-mqtt/issues/135,"Protocol incompatibility issues, Connection establishment issues",DEP,hardware
+MYSENSORS/1388,https://github.com/mysensors/MySensors/pull/1388,Message delivery issues,SWP,middleware
+DEVICE-OS/1855,https://github.com/particle-iot/device-os/issues/1855,"Firmware update issues, Device properties status issues",TM,hardware
+AZURE-IOT-SDK-C/213,https://github.com/Azure/azure-iot-sdk-c/issues/213,"Reconnection issues, Protocol incompatibility issues",CNF,hardware 
+KUBEEDGE/1010,https://github.com/kubeedge/kubeedge/issues/1010,Build and installation issues,CON,middleware
+KURA/2214,https://github.com/eclipse/kura/pull/2214,Build and installation issues,SWP,middleware
+DEVICE-OS/1482,https://github.com/particle-iot/device-os/issues/1482,Disconnetion issues,CON,hardware
+DEVICE-OS/1640,https://github.com/particle-iot/device-os/pull/1640,performance/crash issues,MEM,hardware
+HOMIE-ESP8266/641,https://github.com/homieiot/homie-esp8266/issues/641,"Firmware update issues, Build and installation issues",DEP,hardware 
+MYSENSORS/1334,https://github.com/mysensors/MySensors/issues/1334,"Device incompatibility issues, performance/crash issues, Firmware exception/hang issues",DEP,hardware
+DEVICE-OS/1336,https://github.com/particle-iot/device-os/pull/1336,"Message timing/rate/order issues, Message delivery issues",CON,hardware 
+HOMIE-ESP8266/48,https://github.com/homieiot/homie-esp8266/issues/48,"Third-party issues, UI/usability issues",DEP,hardware
+YODA.JS/780,https://github.com/yodaos-project/yoda.js/issues/780,UI/usability issues,SWP,application
+DEVICE-OS/1911,https://github.com/particle-iot/device-os/pull/1911,"Device connection status issues, Connection establishment issues, Device incompatibility issues",TM,hardware
+PEDALINOMINI/34,https://github.com/alf45tar/PedalinoMini/issues/34,Boot/reboot or physical issues,EC,hardware
+ZMNINJA/759,https://github.com/pliablepixels/zmNinja/issues/759,UI/usability issues,SWP,application
+NEEO-SDK/164,https://github.com/NEEOInc/neeo-sdk/issues/164,"Third-party issues, Build and installation issues",DEP,application 
+KUBEEDGE/555,https://github.com/kubeedge/kubeedge/pull/555,Device discovery and identification issues,SWP,middleware 
+ZMNINJA/54,https://github.com/pliablepixels/zmNinja/issues/54,UI/usability issues,SWP,application
+AZURE-IOT-SDK-C/507,https://github.com/Azure/azure-iot-sdk-c/issues/507,Message timing/rate/order issues,SWP,middleware
+MCS-LITE-APP/56,https://github.com/MCS-Lite/mcs-lite-app/pull/56,UI/usability issues,SWP,application
+BLYNK-SERVER/1226,https://github.com/blynkkk/blynk-server/issues/1226,performance/crash issues,SWP,cloud
+DEVICE-OS/1970,https://github.com/particle-iot/device-os/pull/1970,Firmware exception/hang issues,CON,hardware
+DEVICE-OS/1548,https://github.com/particle-iot/device-os/issues/1548,"Device constraint issues, Disconnetion issues",TM,hardware
+IOT-EDGE-V1/275,https://github.com/Azure/iot-edge-v1/issues/275,Device binding/association/ pairing issues,MEM,middleware
+KUBEEDGE/879,https://github.com/kubeedge/kubeedge/pull/879,Build and installation issues,CNF,middleware
+ZMNINJA/244,https://github.com/pliablepixels/zmNinja/issues/244,Auth issues,SWP,cloud
+GLADYS/390,https://github.com/GladysAssistant/Gladys/issues/390,Build and installation issues,EC,application
+ZMNINJA/459,https://github.com/pliablepixels/zmNinja/issues/459,Auth issues,SWP,cloud
+IOTAGENT-UL/42,https://github.com/telefonicaid/iotagent-ul/issues/42,"Device registration and provisioning issues, Device discovery and identification issues, Device properties status issues",CNF,middleware
+GLADYS/198,https://github.com/GladysAssistant/Gladys/issues/198,"Auth issues, Build and installation issues",CNF,application
+DEVICE-OS/1608,https://github.com/particle-iot/device-os/pull/1608,"Third-party issues, Reconnection issues, Disconnetion issues, Firmware exception/hang issues",CON,hardware
+ZMNINJA/689,https://github.com/pliablepixels/zmNinja/issues/689,Auth issues,CNF,cloud
+GROW-IOT/72,https://github.com/CommonGarden/Grow-IoT/issues/72,UI/usability issues,SWP,application
+OPENHAB-CORE/821,https://github.com/openhab/openhab-core/issues/821,"Build and installation issues, Third-party issues",SEM,cloud
+HOMIE-ESP8266/575,https://github.com/homieiot/homie-esp8266/issues/575,"Firmware update issues, Disconnetion issues, Boot/reboot or physical issues",HWP,hardware
+KUBEEDGE/1499,https://github.com/kubeedge/kubeedge/issues/1499,"Message delivery issues, Message payload issues",SWP,"cloud, edge"
+DEVICE-OS/1283,https://github.com/particle-iot/device-os/pull/1283,Build and installation issues,DEP,hardware
+OCTOPRINT-ASTROPRINT/18,https://github.com/AstroPrint/OctoPrint-AstroPrint/issues/18,Message payload issues,EC,middleware
+ZWAVE2MQTT/181,https://github.com/OpenZWave/Zwave2Mqtt/issues/181,"Device constraint issues, Firmware update issues, UI/usability issues",DEP,middleware 
+ZMNINJA/901,https://github.com/pliablepixels/zmNinja/issues/901,"UI/usability issues, performance/crash issues",SWP,application
+HOOBS/395,https://github.com/hoobs-org/HOOBS/issues/395,Auth issues,CNF,hardware
+GLADYS/413,https://github.com/GladysAssistant/Gladys/issues/413,Device discovery and identification issues,SWP,cloud 
+DEVICE-OS/261,https://github.com/particle-iot/device-os/issues/261,"Device properties status issues, Message timing/rate/order issues",SWP,cloud
+NODEMANAGER/198,https://github.com/mysensors/NodeManager/issues/198,"Device registration and provisioning issues, Device binding/association/ pairing issues",SEM,cloud
+KAPUA/2419,https://github.com/eclipse/kapua/issues/2419,"Auth issues, UI/usability issues",SWP,middleware
+IDEAM/13,https://github.com/rbccps-iisc/ideam/issues/13,Build and installation issues,CNF,hardware
+VITOWIFI/3,https://github.com/bertmelis/VitoWiFi/issues/3,"performance/crash issues, Device incompatibility issues, Third-party incompatibility issues",DEP,middleware
+DEVICE-OS/1661,https://github.com/particle-iot/device-os/pull/1661,Firmware exception/hang issues,CON,hardware
+GLADYS/169,https://github.com/GladysAssistant/Gladys/issues/169,"Auth issues, UI/usability issues",SWP,cloud 
+ZMNINJA/264,https://github.com/pliablepixels/zmNinja/issues/264,Auth issues,SWP,application
+KUBEEDGE/551,https://github.com/kubeedge/kubeedge/pull/551,Build and installation issues,DEP,middleware
+DEVKIT-SDK/536,https://github.com/microsoft/devkit-sdk/issues/536,Firmware update issues,CNF,hardware
+IOTAGENT-JSON/53,https://github.com/telefonicaid/iotagent-json/issues/53,"Message delivery issues, Reconnection issues",SWP,middleware
+OCTOPRINT-ASTROPRINT/26,https://github.com/AstroPrint/OctoPrint-AstroPrint/issues/26,Auth issues,SWP,application
+DEVICEHIVE-JAVA-SERVER/145,https://github.com/devicehive/devicehive-java-server/issues/145,"Device properties status issues, Message timing/rate/order issues, Message payload issues",TM,cloud
+YODA.JS/780,https://github.com/yodaos-project/yoda.js/issues/780,UI/usability issues,SWP,application
+DEVKIT-SDK/745,https://github.com/microsoft/devkit-sdk/issues/745,Build and installation issues,CNF,hardware
+BLYNK-SERVER/1221,https://github.com/blynkkk/blynk-server/issues/1221,UI/usability issues,SWP,application 
+DEVICE-OS/1976,https://github.com/particle-iot/device-os/pull/1976,"Connection establishment issues, Network discovery/set-up issues, Device configuration issues",SWP,hardware
+ZWAVE2MQTT/96,https://github.com/OpenZWave/Zwave2Mqtt/issues/96,Device properties status issues,SWP,middleware
+OPENHAB-IOS/101,https://github.com/openhab/openhab-ios/issues/101,UI/usability issues,SWP,application
+HOMIE-ESP8266/242,https://github.com/homieiot/homie-esp8266/issues/242,"Disconnetion issues, Device connection status issues, Device constraint issues",TM,hardware
+OPENHAB-CORE/493,https://github.com/openhab/openhab-core/pull/493,"Device properties status issues, Boot/reboot or physical issues",SWP,cloud
+GLADYS/571,https://github.com/GladysAssistant/Gladys/issues/571,"UI/usability issues, Device registration and provisioning issues",EC,application
+MYSENSORS/949,https://github.com/mysensors/MySensors/issues/949,Message delivery issues,HWP,hardware 
+ZWAVE2MQTT/203,https://github.com/OpenZWave/Zwave2Mqtt/issues/203,"Protocol incompatibility issues, Device discovery and identification issues",CNF,middleware
+AZURE-IOT-SDK-C/556,https://github.com/Azure/azure-iot-sdk-c/issues/556,Firmware exception/hang issues,HWP,hardware
+SMARTHOME/135,https://github.com/smarthomeNG/smarthome/issues/135,Message payload issues,SWP,cloud
+IOT-JAVA/180,https://github.com/ibm-watson-iot/iot-java/issues/180,"Connection establishment issues, Device connection status issues",SWP,application
+ZMNINJA/459,https://github.com/pliablepixels/zmNinja/issues/459,Auth issues,SWP,cloud 
+CASANET-SERVER/7,https://github.com/casanet/casanet-server/issues/7,"Auth issues, Disconnetion issues",CNF,cloud
+PARTICLE-CLI/129,https://github.com/particle-iot/particle-cli/issues/129,Build and installation issues,EC,hardware 
+OPENHAB-IOS/514,https://github.com/openhab/openhab-ios/issues/514,UI/usability issues,SWP,application
+DEVICE-OS/1604,https://github.com/particle-iot/device-os/pull/1604,"Auth issues, Message payload issues",EC,hardware
+IOTEDGEDEV/198,https://github.com/Azure/iotedgedev/issues/198,"Auth issues, Build and installation issues",CNF,middleware
+IOTEDGEDEV/44,https://github.com/Azure/iotedgedev/issues/44,Build and installation issues,DEP,middleware
+DEVKIT-SDK/757,https://github.com/microsoft/devkit-sdk/issues/757,performance/crash issues,EC,hardware
+DEVICE-OS/2019,https://github.com/particle-iot/device-os/pull/2019,"Message payload issues, Device incompatibility issues",DEP,hardware
+SMARTHOME/184,https://github.com/smarthomeNG/smarthome/issues/184,Message payload issues,SEM,cloud
+SITEWHERE/378,https://github.com/sitewhere/sitewhere/issues/378,dev2,EC,  cloud      
+HONO/1626,https://github.com/eclipse/hono/pull/1626,"Connection establishment issues, Disconnetion issues, Device connection status issues",SWP,cloud        
+YODA.JS/125,https://github.com/yodaos-project/yoda.js/issues/125,UI/usability issues,CNF,application        
+KAPUA/2339,https://github.com/eclipse/kapua/issues/2339,"Auth issues, UI/usability issues",SEM, middleware       
+SMARTHOME/3186,https://github.com/eclipse/smarthome/issues/3186,Build and installation issues,DEP,cloud        
+KUBEEDGE/644,https://github.com/kubeedge/kubeedge/pull/644,Device discovery and identification issues,SWP,middleware        
+MYSENSORS/855,https://github.com/mysensors/MySensors/pull/855,Build and installation issues,HWP,hardware        
+NEEO-SDK/23,https://github.com/NEEOInc/neeo-sdk/issues/23,Device discovery and identification issues,EC,cloud        
+CASANET-SERVER/37,https://github.com/casanet/casanet-server/issues/37,UI/usability issues,SWP,application        
+SMARTHOME/5533,https://github.com/eclipse/smarthome/issues/5533,performance/crash issues,SEM,cloud        
+ZWAVE2MQTT/83,https://github.com/OpenZWave/Zwave2Mqtt/issues/83,Device configuration issues,SWP,middleware        
+KURA/1812,https://github.com/eclipse/kura/issues/1812,UI/usability issues,SWP,middleware        
+KAPUA/2110,https://github.com/eclipse/kapua/issues/2110,UI/usability issues,SWP,application        
+SMARTHOME/3746,https://github.com/eclipse/smarthome/pull/3746,Rule action execution issues,CON,cloud        
+KAPUA/2471,https://github.com/eclipse/kapua/issues/2471,"Auth issues, UI/usability issues",SEM,middleware        
+DEVICE-OS/682,https://github.com/particle-iot/device-os/issues/682,Message payload issues,HWP, hardware       
+KUBEEDGE/1138,https://github.com/kubeedge/kubeedge/issues/1138,"Auth issues, Device discovery and identification issues, Device properties status issues",CNF,middleware        
+HONO/1205,https://github.com/eclipse/hono/issues/1205,performance/crash issues,CNF,cloud        
+ZMNINJA/827,https://github.com/pliablepixels/zmNinja/issues/827,UI/usability issues,EC,application        
+SMARTHOME/2883,https://github.com/eclipse/smarthome/issues/2883,UI/usability issues,SWP,application        
+SMARTHOME/4732,https://github.com/eclipse/smarthome/issues/4732,"Auth issues, UI/usability issues",SWP,cloud        
+KUBEEDGE/1386,https://github.com/kubeedge/kubeedge/pull/1386,Message payload issues,EC,  middleware      
+ZMNINJA/903,https://github.com/pliablepixels/zmNinja/issues/903,UI/usability issues,SWP, application       
+KAPUA/2826,https://github.com/eclipse/kapua/issues/2826,Build and installation issues,DEP, application       
+SMARTHOME/2911,https://github.com/eclipse/smarthome/issues/2911,"Device properties status issues, UI/usability issues",SEM,cloud        
+PEDALINOMINI/53,https://github.com/alf45tar/PedalinoMini/issues/53,"Protocol incompatibility issues, Message delivery issues, Network reset/mode-change issues",SEM, hardware       
+HOMIE-ESP8266/155,https://github.com/homieiot/homie-esp8266/issues/155,"Protocol incompatibility issues, Message payload issues, Device discovery and identification issues",DEP, cloud       
+SMARTHOME/610,https://github.com/eclipse/smarthome/issues/610,"Rule action execution issues, Device properties status issues",CON,cloud        
+SMARTHOME/3678,https://github.com/eclipse/smarthome/issues/3678,Device discovery and identification issues,CNF,cloud        
+KAPUA/2746,https://github.com/eclipse/kapua/pull/2746,Message payload issues,SWP,cloud        
+SITEWHERE/503,https://github.com/sitewhere/sitewhere/issues/503,Auth issues,SWP,cloud        
+SMARTHOME/3050,https://github.com/eclipse/smarthome/issues/3050,"Rule condition issues, Rule trigger issues, UI/usability issues",SWP,cloud        
+KURA/2658,https://github.com/eclipse/kura/issues/2658,UI/usability issues,SWP,middleware        
+DEVICE-OS/280,https://github.com/particle-iot/device-os/issues/280,UI/usability issues,TM,application        
+BLYNK-SERVER/1114,https://github.com/blynkkk/blynk-server/issues/1114,Device properties status issues,TM,cloud        
+DEVKIT-SDK/758,https://github.com/microsoft/devkit-sdk/issues/758,Build and installation issues,SWP,hardware        
+ZWAVE2MQTT/141,https://github.com/OpenZWave/Zwave2Mqtt/issues/141,"Third-party issues, Device constraint issues",MEM, middleware       
+SMARTHOME/5696,https://github.com/eclipse/smarthome/pull/5696,UI/usability issues,SWP, cloud       
+SMARTHOME/1943,https://github.com/eclipse/smarthome/issues/1943,"Device discovery and identification issues, Protocol incompatibility issues",SEM,"cloud,application"
+SMARTHOME/2849,https://github.com/eclipse/smarthome/issues/2849,"Rule condition issues, UI/usability issues, Device properties status issues",SEM,cloud
+HAWKBIT/256,https://github.com/eclipse/hawkbit/issues/256,Build and installation issues,DEP,middleware
+SMARTHOME/3832,https://github.com/eclipse/smarthome/pull/3832,Rule action execution issues,SWP0,cloud
+SMARTHOME/5578,https://github.com/eclipse/smarthome/issues/5578,"Rule trigger issues, Device properties status issues",SWP0,3
+BLYNK-SERVER/1183,https://github.com/blynkkk/blynk-server/issues/1183,Message delivery issues,SWP,cloud
+NODEMANAGER/38,https://github.com/mysensors/NodeManager/issues/38,Device properties status issues,SWP,cloud
+KUBEEDGE/440,https://github.com/kubeedge/kubeedge/issues/440,"Build and installation issues, Connection establishment issues",CNF,middleware
+HONO/248,https://github.com/eclipse/hono/issues/248,"Device connection status issues, Disconnetion issues",EC,cloud
+NODEL/99,https://github.com/museumsvictoria/nodel/issues/99,Device properties status issues,TM,application
+BLYNK-SERVER/1133,https://github.com/blynkkk/blynk-server/issues/1133,"Auth issues, Network discovery/set-up issues",CNF,cloud
+DEVKIT-SDK/765,https://github.com/microsoft/devkit-sdk/issues/765,"Build and installation issues, Device discovery and identification issues",DEP,cloud
+KAPUA/2735,https://github.com/eclipse/kapua/pull/2735,"Device discovery and identification issues, UI/usability issues",EC,cloud
+ZWAVE2MQTT/90,https://github.com/OpenZWave/Zwave2Mqtt/issues/90,"Third-party issues, Device properties status issues, Build and installation issues, Device discovery and identification issues, Firmware update issues, Device configuration issues",CNF,middleware
+BLYNK-SERVER/1244,https://github.com/blynkkk/blynk-server/issues/1244,UI/usability issues,SWP,application
+DEVICE-OS/1346,https://github.com/particle-iot/device-os/pull/1346,"Connection establishment issues, Network discovery/set-up issues",CON,hardware
+ZMNINJA/113,https://github.com/pliablepixels/zmNinja/issues/113,UI/usability issues,SWP,application
+ZWAVE2MQTT/88,https://github.com/OpenZWave/Zwave2Mqtt/issues/88,"Message delivery issues, Device properties status issues, Device discovery and identification issues",SWP,middleware
+ZWAVE2MQTT/186,https://github.com/OpenZWave/Zwave2Mqtt/issues/186,"Device properties status issues, Message payload issues",EC,cloud
+AZURE-IOT-SDK-C/775,https://github.com/Azure/azure-iot-sdk-c/issues/775,"Message delivery issues, Reconnection issues",SEM,cloud
+SMARTHOME/3087,https://github.com/eclipse/smarthome/issues/3087,UI/usability issues,SWP,application
+BLYNK-SERVER/487,https://github.com/blynkkk/blynk-server/issues/487,UI/usability issues,SWP,application
+KUBEEDGE/540,https://github.com/kubeedge/kubeedge/pull/540,Protocol incompatibility issues,EC,middleware
+KUBEEDGE/292,https://github.com/kubeedge/kubeedge/issues/292,Build and installation issues,DEP,middleware
+ZMNINJA/468,https://github.com/pliablepixels/zmNinja/issues/468,"Auth issues, UI/usability issues",MEM,application
+GLADYS/335,https://github.com/GladysAssistant/Gladys/issues/335,UI/usability issues,EC,application
+HOMIE-ESP8266/575,https://github.com/homieiot/homie-esp8266/issues/575,"Firmware update issues, Device constraint issues",SEM,hardware
+KURA/467,https://github.com/eclipse/kura/issues/467,UI/usability issues,EC,middleware 
+YODA.JS/44,https://github.com/yodaos-project/yoda.js/issues/44,Network discovery/set-up issues,CNF,application
+ZWAVE2MQTT/87,https://github.com/OpenZWave/Zwave2Mqtt/issues/87,"Device properties status issues, Device binding/association/ pairing issues",SEM,middleware
+DEVICE-OS/1696,https://github.com/particle-iot/device-os/pull/1696,"Boot/reboot or physical issues, Connection establishment issues",HWP,hardware 
+BLYNK-SERVER/944,https://github.com/blynkkk/blynk-server/issues/944,Connection establishment issues,TM,application
+KUBEEDGE/426,https://github.com/kubeedge/kubeedge/issues/426,Disconnetion issues,TM,middleware
+DEVICE-OS/1477,https://github.com/particle-iot/device-os/pull/1477,Firmware exception/hang issues,MEM,hardware
+BLYNK-SERVER/1103,https://github.com/blynkkk/blynk-server/issues/1103,UI/usability issues,EC,application
+DEVICE-OS/1938,https://github.com/particle-iot/device-os/pull/1938,"Connection establishment issues, Device properties status issues",TM,hardware
+DEVICE-OS/1017,https://github.com/particle-iot/device-os/issues/1017,Firmware exception/hang issues,HWP,hardware
+SMARTHOME/3173,https://github.com/eclipse/smarthome/pull/3173,UI/usability issues,SWP,application
+ZMNINJA/126,https://github.com/pliablepixels/zmNinja/issues/126,Auth issues,EC,application
+NODEMANAGER/121,https://github.com/mysensors/NodeManager/issues/121,Device discovery and identification issues,SWP,middleware
+SMARTHOME/1055,https://github.com/eclipse/smarthome/issues/1055,UI/usability issues,SWP,application
+BLYNK-SERVER/1112,https://github.com/blynkkk/blynk-server/issues/1112,UI/usability issues,SWP,application
+KURA/2072,https://github.com/eclipse/kura/issues/2072,UI/usability issues,SWP,middleware
+DEVICE-OS/1842,https://github.com/particle-iot/device-os/issues/1842,Build and installation issues,SWP,hardware
+KAPUA/2382,https://github.com/eclipse/kapua/issues/2382,UI/usability issues,SWP,middleware
+TESLA-API/68,https://github.com/timdorr/tesla-api/issues/68,"Device incompatibility issues, Device properties status issues",DEP,application 
+TESLA-API/43,https://github.com/timdorr/tesla-api/issues/43,"Device incompatibility issues, Rule condition issues, Third-party issues",CNF,application 
+OPERATING-SYSTEM/576,https://github.com/home-assistant/operating-system/issues/576,"Firmware update issues, Device discovery and identification issues, Boot/reboot or physical issues",CNF,hardware 
+OPERATING-SYSTEM/480,https://github.com/home-assistant/operating-system/issues/480,Network discovery/set-up issues,DEP,hardware 
+THINGSBOARD-GATEWAY/249,https://github.com/thingsboard/thingsboard-gateway/issues/249,"Message timing/rate/order issues, Reconnection issues, Build and installation issues",DEP,gateway 
+THINGSBOARD-GATEWAY/245,https://github.com/thingsboard/thingsboard-gateway/issues/245,"Message delivery issues, Device properties status issues, Build and installation issues",SEM,middleware 
+MACCHINA.IO/48,https://github.com/macchina-io/macchina.io/issues/48,Device properties status issues,SEM,application 
+MACCHINA.IO/22,https://github.com/macchina-io/macchina.io/issues/22,UI/usability issues,MEM,application 
+SMARTIR/73,https://github.com/smartHomeHub/SmartIR/pull/73,"Device properties status issues, Boot/reboot or physical issues",SWP,application 
+ESP-MQTT/48,https://github.com/espressif/esp-mqtt/issues/48,"Message delivery issues, Third-party issues, Disconnetion issues",CNF,hardware 
+ESP-MQTT/34,https://github.com/espressif/esp-mqtt/issues/34,"Firmware update issues, Message delivery issues, Message payload issues, Message timing/rate/order issues",HWP,hardware 
+HASSIO-ZIGBEE2MQTT/47,https://github.com/danielwelch/hassio-zigbee2mqtt/issues/47,"Message delivery issues, Third-party issues, Device properties status issues, Message payload issues, Device discovery and identification issues",SEM,middleware 
+ZIGBEE2MQTT/107,https://github.com/Koenkk/zigbee2mqtt/issues/107,"Device discovery and identification issues, Firmware update issues",DEP,middleware 
+FREEDOMOTIC/275,https://github.com/freedomotic/freedomotic/issues/275,performance/crash issues,EC, cloud
+HAP-PYTHON/52,https://github.com/ikalchev/HAP-python/issues/52,"Connection establishment issues, Device connection status issues, Device binding/association/ pairing issues",TM,cloud 
+HAP-PYTHON/20,https://github.com/ikalchev/HAP-python/issues/20,"Device discovery and identification issues, Device binding/association/ pairing issues",SEM, cloud
+BRAD-HOMEASSISTANT-CONFIG/20,https://github.com/oakbrad/brad-homeassistant-config/issues/20,Rule action execution issues,SWP0, application
+BRAD-HOMEASSISTANT-CONFIG/12,https://github.com/oakbrad/brad-homeassistant-config/issues/12,Rule action execution issues,SWP0,application 
+ADAFRUIT_IO_PYTHON/95,https://github.com/adafruit/Adafruit_IO_Python/pull/95,Message delivery issues,SEM, application 
+DASSHIO/79,https://github.com/danimtb/dasshio/issues/79,UI/usability issues,SWP, application
+DASSHIO/72,https://github.com/danimtb/dasshio/issues/72,Build and installation issues,DEP, middleware 
+ENTITY-CONTROLLER/103,https://github.com/danobot/entity-controller/issues/103,"Rule action execution issues, Device properties status issues",SWP0,application 
+ENTITY-CONTROLLER/61,https://github.com/danobot/entity-controller/issues/61,Device properties status issues,TM,cloud 
+HOME-ASSISTANT-CONFIG/2,https://github.com/Norien/Home-Assistant-Config/issues/2,"Rule trigger issues, Device properties status issues",SWP0, application
+TEMPERATURE-MACHINE/13,https://github.com/tobyweston/temperature-machine/issues/13,Device incompatibility issues,SWP,application 
+PHPMYDOMO/35,https://github.com/phpMyDomo/phpMyDomo/issues/35,UI/usability issues,SWP,application 
+PHPMYDOMO/32,https://github.com/phpMyDomo/phpMyDomo/issues/32,Device incompatibility issues,SEM,application 
+PIHOME/124,https://github.com/pihome-shc/pihome/issues/124,UI/usability issues,SWP,application 
+PIHOME/111,https://github.com/pihome-shc/pihome/pull/111,UI/usability issues,SWP,application 
+IOBROKER.HUE/92,https://github.com/iobroker-community-adapters/ioBroker.hue/issues/92,Device properties status issues,SEM,middleware
+IOBROKER.HUE/78,https://github.com/iobroker-community-adapters/ioBroker.hue/issues/78,"Device discovery and identification issues, Protocol incompatibility issues",CNF,middleware 
+GROW.JS/95,https://github.com/JakeHartnell/Grow.js/issues/95,Message delivery issues,SWP, middleware 
+GOBOT/689,https://github.com/hybridgroup/gobot/issues/689,Build and installation issues,DEP, hardware 
+GOBOT/673,https://github.com/hybridgroup/gobot/issues/673,Auth issues,CNF, middleware 
+CYLON/197,https://github.com/hybridgroup/cylon/issues/197,Device connection status issues,SWP, middleware 
+PYCHROMECAST/39,https://github.com/balloob/pychromecast/issues/39,Device discovery and identification issues,SWP, application 
+PYCHROMECAST/38,https://github.com/balloob/pychromecast/issues/38,Device discovery and identification issues,CNF,application 
+PYTRADFRI/138,https://github.com/ggravlingen/pytradfri/issues/138,Device properties status issues,SWP,middleware 
+PYTRADFRI/135,https://github.com/ggravlingen/pytradfri/issues/135,"Device incompatibility issues, Third-party issues, Device discovery and identification issues, Message payload issues",HWP,middleware 
+UPM/664,https://github.com/eclipse/upm/issues/664,"Firmware exception/hang issues, Device binding/association/ pairing issues",MEM,hardware 
+UPM/498,https://github.com/eclipse/upm/issues/498,"Device incompatibility issues, Third-party issues",SEM,hardware 
+DITTO/546,https://github.com/eclipse/ditto/pull/546,Message delivery issues,TM, middleware
+DITTO/414,https://github.com/eclipse/ditto/issues/414,"Third-party issues, Disconnetion issues",TM,cloud 
+MYCONTROLLER/501,https://github.com/mycontroller-org/mycontroller/issues/501,"Message timing/rate/order issues, Device properties status issues",SWP, cloud 
+MYCONTROLLER/485,https://github.com/mycontroller-org/mycontroller/issues/485,"Device connection status issues, Device properties status issues",TM, cloud
+RPIEASY/128,https://github.com/enesbcs/rpieasy/issues/128,Device constraint issues,SWP,middleware 
+RPIEASY/124,https://github.com/enesbcs/rpieasy/issues/124,Device configuration issues,CNF,hardware 
+WTHERMOSTATBECA/37,https://github.com/klausahrenberg/WThermostatBeca/issues/37,"Message delivery issues, Reconnection issues, Disconnetion issues, Firmware update issues",DEP,hardware 
+WTHERMOSTATBECA/54,https://github.com/klausahrenberg/WThermostatBeca/issues/54,"Reconnection issues, Firmware update issues",CNF,hardware 
+QUICKBIRDUWPDASHBOARD/8,https://github.com/quickbird-uk/QuickbirdUWPDashboard/issues/8,"Message timing/rate/order issues, UI/usability issues",TM, application
+QUICKBIRDUWPDASHBOARD/76,https://github.com/quickbird-uk/QuickbirdUWPDashboard/issues/76,"UI/usability issues, Device discovery and identification issues",EC, application
+QUICKBIRDUWPDASHBOARD/15,https://github.com/quickbird-uk/QuickbirdUWPDashboard/issues/15,UI/usability issues,SWP,application 
+THINGSBOARD/814,https://github.com/thingsboard/thingsboard/issues/814,Message delivery issues,DEP, cloud
+THINGSBOARD/856,https://github.com/thingsboard/thingsboard/issues/856,"Message timing/rate/order issues, UI/usability issues",TM,application 
+MONGOOSE-OS/317,https://github.com/cesanta/mongoose-os/issues/317,Firmware update issues,MEM,hardware 
+MONGOOSE-OS/277,https://github.com/cesanta/mongoose-os/issues/277,"Boot/reboot or physical issues, Device incompatibility issues",TM,hardware 
+MAINFLUX/714,https://github.com/mainflux/mainflux/issues/714,Message delivery issues,SWP, middleware
+MAINFLUX/1079,https://github.com/mainflux/mainflux/issues/1079,"Protocol incompatibility issues, Message delivery issues",SWP, middleware 
+GROVEPI/412,https://github.com/DexterInd/GrovePi/issues/412,Message payload issues,CON,hardware 
+GROVEPI/418,https://github.com/DexterInd/GrovePi/issues/418,"Third-party issues, Message payload issues",TM, hardware
+FREEDOMOTIC/267,https://github.com/freedomotic/freedomotic/issues/267,Rule condition issues,SWP0,cloud 
+FREEDOMOTIC/242,https://github.com/freedomotic/freedomotic/issues/242,"Protocol incompatibility issues, Device discovery and identification issues",SEM,cloud 
+VSCP/207,https://github.com/grodansparadis/vscp/issues/207,Device configuration issues,DEP,midleware 
+VSCP/98,https://github.com/grodansparadis/vscp/issues/98,Device connection status issues,SWP, hardware
+EMBARC_OSP/123,https://github.com/foss-for-synopsys-dwc-arc-processors/embarc_osp/issues/123,"Protocol incompatibility issues, performance/crash issues",CNF, hardware
+EMBARC_OSP/74,https://github.com/foss-for-synopsys-dwc-arc-processors/embarc_osp/issues/74,Message delivery issues,HWP,hardware 
+SYNSE-SERVER/363,https://github.com/vapor-ware/synse-server/issues/363,"Third-party issues, Message delivery issues",MEM, middleware 
+SYNSE-SERVER/88,https://github.com/vapor-ware/synse-server/issues/88,Message payload issues,EC,cloud 
+DOMOTICZ/2897,https://github.com/domoticz/domoticz/issues/2897,"Protocol incompatibility issues, Device properties status issues",SWP, middleware 
+DOMOTICZ/2641,https://github.com/domoticz/domoticz/issues/2641,UI/usability issues,SWP,middleware 
+APPDAEMON/188,https://github.com/home-assistant/appdaemon/issues/188,"Device properties status issues, Boot/reboot or physical issues",SWP,application 
+APPDAEMON/539,https://github.com/home-assistant/appdaemon/issues/539,Device properties status issues,SEM,application 

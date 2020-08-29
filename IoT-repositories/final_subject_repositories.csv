@@ -1,0 +1,92 @@
+full-name,URL,Custom bugLabel,Data-Points-Count,stars,forks,language,description
+kubeedge/kubeedge,https://github.com/kubeedge/kubeedge,kind/bug,188,2219,559,Go,Kubernetes Native Edge Computing Framework (project under CNCF)
+lelylan/lelylan,https://github.com/lelylan/lelylan,,41,1465,91,,Open Source Lightweight Microservices Architecture for the Internet of Things. For developers.
+ct-Open-Source/tuya-convert,https://github.com/ct-Open-Source/tuya-convert,,3,1328,192,Python,A collection of scripts to flash Tuya IoT devices to alternative firmwares
+GladysAssistant/Gladys,https://github.com/GladysAssistant/Gladys,,52,1326,191,JavaScript,"A privacy-first, open-source home assistant"
+homieiot/homie-esp8266,https://github.com/homieiot/homie-esp8266,,94,1109,246,HTML,"💡 ESP8266 framework for Homie, a lightweight MQTT convention for the IoT"
+mysensors/MySensors,https://github.com/mysensors/MySensors,,85,1046,824,C++,MySensors library and examples
+timdorr/tesla-api,https://github.com/timdorr/tesla-api,,2,994,376,Ruby,"🚘 A Ruby gem and unofficial documentation of Tesla's JSON API for the Model S, Model X, and Model 3."
+particle-iot/device-os,https://github.com/particle-iot/device-os,,327,928,501,C,Device OS (Firmware) for Particle Devices
+home-assistant/operating-system,https://github.com/home-assistant/operating-system,,3,730,224,Makefile,:beginner: Home Assistant Operating System
+pliablepixels/zmNinja,https://github.com/pliablepixels/zmNinja,,200,635,196,JavaScript,"High performance, cross platform ionic app for Home/Commerical Security Surveillance using ZoneMinder"
+Nekmo/amazon-dash,https://github.com/Nekmo/amazon-dash,,13,600,51,Python,Hack your Amazon Dash to run what you want.
+codetheweb/tuyapi,https://github.com/codetheweb/tuyapi,,13,563,106,JavaScript,🌧 An easy-to-use API for devices that use Tuya's cloud services. Documentation: https://codetheweb.github.io/tuyapi.
+256dpi/arduino-mqtt,https://github.com/256dpi/arduino-mqtt,,3,553,146,C,MQTT library for Arduino
+Azure/iot-edge-v1,https://github.com/Azure/iot-edge-v1,,56,511,267,C,Azure IoT Edge
+thingsboard/thingsboard-gateway,https://github.com/thingsboard/thingsboard-gateway,,3,474,253,Python,Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with ThingsBoard IoT Platform using OPC-UA and MQTT protocols
+macchina-io/macchina.io,https://github.com/macchina-io/macchina.io,,3,412,121,C++,"macchina.io IoT Edge Device SDK is a powerful C++ and JavaScript SDK for edge devices, IoT gateways and connected embedded systems."
+smartHomeHub/SmartIR,https://github.com/smartHomeHub/SmartIR,wontfix,3,342,209,Python,"Integration for Home Assistant to control climate, TV and fan devices via IR/RF controllers (Broadlink, Xiaomi, MQTT)"
+Azure/azure-iot-sdk-c,https://github.com/Azure/azure-iot-sdk-c,,126,340,464,C,A C99 SDK for connecting devices to Microsoft Azure IoT services
+espressif/esp-mqtt,https://github.com/espressif/esp-mqtt,,2,318,160,C,ESP32 mqtt component
+danielwelch/hassio-zigbee2mqtt,https://github.com/danielwelch/hassio-zigbee2mqtt,,2,318,103,Shell,Hass.io add-on for zigbee2mqtt
+freedomotic/freedomotic,https://github.com/freedomotic/freedomotic,,21,313,475,Java,Open IoT Framework
+ikalchev/HAP-python,https://github.com/ikalchev/HAP-python,,5,279,73,Python,A python implementation of the HomeKit Accessory Protocol (HAP)
+openhab/openhab-core,https://github.com/openhab/openhab-core,,54,253,191,Java,Core framework of openHAB
+eclipse/hawkbit,https://github.com/eclipse/hawkbit,,26,229,93,Java,Eclipse hawkBit™
+oakbrad/brad-homeassistant-config,https://github.com/oakbrad/brad-homeassistant-config,,3,207,22,HTML,Home Assistant configuration
+OpenZWave/Zwave2Mqtt,https://github.com/OpenZWave/Zwave2Mqtt,,77,204,52,JavaScript,Fully configurable Zwave to MQTT gateway and Control Panel using NodeJS and Vue
+devicehive/devicehive-java-server,https://github.com/devicehive/devicehive-java-server,,30,202,92,Java,DeviceHive Java Server
+particle-iot/particle-cli,https://github.com/particle-iot/particle-cli,,67,200,86,JavaScript,Command Line Interface for Particle Cloud and devices
+yodaos-project/yoda.js,https://github.com/yodaos-project/yoda.js,,16,183,48,JavaScript,Application Framework that powered YodaOS 
+theyosh/TerrariumPI,https://github.com/theyosh/TerrariumPI,,10,178,64,JavaScript,Home automated terrarium/aquarium or other enclosed environment with a Raspberry Pi
+adafruit/Adafruit_IO_Python,https://github.com/adafruit/Adafruit_IO_Python,,9,146,57,Python,Adafruit IO Python Client Library
+hoobs-org/HOOBS,https://github.com/hoobs-org/HOOBS,,109,131,14,Shell,HOOBS - Homebridge Out Of the Box System
+danimtb/dasshio,https://github.com/danimtb/dasshio,,5,120,55,Python,Hass.io add-on to easily use Amazon Dash Buttons with Home Assistant
+AlCalzone/node-tradfri-client,https://github.com/AlCalzone/node-tradfri-client,,19,119,24,TypeScript,Library to talk to IKEA Trådfri Gateways without external binaries
+mysensors/NodeManager,https://github.com/mysensors/NodeManager,,130,104,72,C++,Plugin for a rapid development of battery-powered sensors
+danobot/entity-controller,https://github.com/danobot/entity-controller,,4,95,25,Python,"Intelligent entity controller for Home Assistant for controlling devices with timers, overrides, custom service parameters and scripts, and sun-based time restrictions."
+Norien/Home-Assistant-Config,https://github.com/Norien/Home-Assistant-Config,,2,91,11,Python,:house: Home Assistant configuration
+smarthomeNG/smarthome,https://github.com/smarthomeNG/smarthome,,21,80,81,Python,Device integration platform for your smart home
+Azure/iotedgedev,https://github.com/Azure/iotedgedev,,13,78,40,Python,The Azure IoT Edge Dev Tool greatly simplifies your Azure IoT Edge development process. It has everything you need to get started and helps with your day-to-day Edge development.
+esphome/issues,https://github.com/esphome/issues,,6,60,8,,Issue Tracker for ESPHome
+bertmelis/VitoWiFi,https://github.com/bertmelis/VitoWiFi,,5,60,15,C++,Communicate with Viessmann boilers using the optolink for ESP8266 and ESP32
+openairproject/sensor-esp32,https://github.com/openairproject/sensor-esp32,,7,50,15,C,air quality sensor based on ESP32
+ibm-watson-iot/iot-java,https://github.com/ibm-watson-iot/iot-java,,10,49,81,Java,Client libraries and samples for connecting to IBM Watson IoT using Java
+alf45tar/PedalinoMini,https://github.com/alf45tar/PedalinoMini,,7,49,14,C,Same features of Pedalino™ in a compact form.
+microsoft/devkit-sdk,https://github.com/microsoft/devkit-sdk,,91,46,42,C,Arduino library and package for the MXChip IoT DevKit
+NEEOInc/neeo-sdk,https://github.com/NEEOInc/neeo-sdk,type : bug,26,46,14,TypeScript,NEEO Brain SDK
+futurice/vor,https://github.com/futurice/vor,,12,44,9,Java,The new IoT Office Experience.
+telefonicaid/iotagent-node-lib,https://github.com/telefonicaid/iotagent-node-lib,,98,44,52,JavaScript,Module to enable IoT Agent developers to build custom agents for their devices that can easily connect to NGSI Context Brokers
+tobyweston/temperature-machine,https://github.com/tobyweston/temperature-machine,,6,40,12,Scala,Data logger for multiple DS18B20 temperature sensors on one or more machines
+museumsvictoria/nodel,https://github.com/museumsvictoria/nodel,,31,36,8,Java,A digital media control system for museums and galleries
+phpMyDomo/phpMyDomo,https://github.com/phpMyDomo/phpMyDomo,,6,32,20,PHP,The ultimate Domotic web remote for the rest of us
+casanet/casanet-server,https://github.com/casanet/casanet-server,,11,32,8,TypeScript,Open-source server and dashboard to control IoT devices in a local home network
+MCS-Lite/mcs-lite-app,https://github.com/MCS-Lite/mcs-lite-app,,22,27,10,JavaScript,"An on-premises Internet of Things cloud platform, which can be quickly built and get started with."
+pihome-shc/pihome,https://github.com/pihome-shc/pihome,,5,27,21,HTML,"PiHome - Smart Heating, Ventilation and Air Conditioning (HVAC)"
+iobroker-community-adapters/ioBroker.hue,https://github.com/iobroker-community-adapters/ioBroker.hue,,4,26,25,JavaScript,Control Philips Hue Bridge
+JakeHartnell/Grow.js,https://github.com/JakeHartnell/Grow.js,,7,23,11,JavaScript,Now a package in Grow-IoT
+telefonicaid/iotagent-json,https://github.com/telefonicaid/iotagent-json,,27,21,56,JavaScript,"IoT Agent for a JSON based protocol (with HTTP, MQTT and AMQP transports)"
+telefonicaid/lightweightm2m-iotagent,https://github.com/telefonicaid/lightweightm2m-iotagent,,13,19,25,JavaScript,IoT Agent accepting COAP requests. Designed to be a bridge between the OMA Lightweight M2M protocol and the NGSI interface.
+CommonGarden/Grow-IoT,https://github.com/CommonGarden/Grow-IoT,,14,17,1,JavaScript,Software packages for smart growing environments.
+telefonicaid/iotagent-ul,https://github.com/telefonicaid/iotagent-ul,,33,17,41,JavaScript,"IoT Agent for a UltraLight 2.0 based protocol (with HTTP, MQTT and AMQP transports)"
+AstroPrint/OctoPrint-AstroPrint,https://github.com/AstroPrint/OctoPrint-AstroPrint,,14,15,4,Python,Connect your OctoPrint device to the AstroPrint 3D Printing Cloud
+rbccps-iisc/ideam,https://github.com/rbccps-iisc/ideam,,39,14,10,Python,City Data Exchange & Analytics Stack (CDEAS) for Smart Cities
+home-assistant/home-assistant,https://github.com/home-assistant/home-assistant,,236,31665,9549,Python,:house_with_garden: Open source home automation that puts local control and privacy first
+hybridgroup/gobot,https://github.com/hybridgroup/gobot,,28,6253,780,Go,"Golang framework for robotics, drones, and the Internet of Things (IoT)"
+hybridgroup/cylon,https://github.com/hybridgroup/cylon,,3,3676,339,JavaScript,"JavaScript framework for robotics, drones, and the Internet of Things (IoT)"
+blynkkk/blynk-library,https://github.com/blynkkk/blynk-library,,67,2554,732,C++,"Blynk library for embedded hardware. Works with Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, Energia, ARM mbed, etc."
+balloob/pychromecast,https://github.com/balloob/pychromecast,,2,1888,267,Python,Library for Python 3 to communicate with the Google Chromecast.
+blynkkk/blynk-server,https://github.com/blynkkk/blynk-server,,300,1717,616,Java,"Blynk is an Internet of Things Platform aimed to simplify building mobile and web applications for the Internet of Things. Easily connect 400+ hardware models like Arduino, ESP8266, ESP32, Raspberry Pi and similar MCUs and drag-n-drop IOT mobile apps for iOS and Android in 5 minutes: When hardware connects to Blynk cloud it opens either keep-alive ssl/tls connection on port 443 (9443 for local servers) or keep-alive plain tcp/ip connection on port 8080. Blynk app opens mutual ssl/tls connection to Blynk Cloud on port 443 (9443 for local servers). Blynk Cloud is responsible for forwarding messages between hardware and app. In both (app and hardware) connections Blynk uses own binary protocol described below."
+eclipse/smarthome,https://github.com/eclipse/smarthome,,589,857,847,Java,Eclipse SmartHome™ project
+ggravlingen/pytradfri,https://github.com/ggravlingen/pytradfri,,4,663,112,Python,IKEA Trådfri/Tradfri API. Control and observe your lights from Python. Examples available. On pypi. Sans-io.
+sitewhere/sitewhere,https://github.com/sitewhere/sitewhere,,144,619,275,Java,"SiteWhere is an industrial strength open-source application enablement platform for the Internet of Things (IoT). It provides a multi-tenant microservice-based infrastructure that includes device/asset management, data ingestion, big-data storage, and integration through a modern, scalable architecture.  SiteWhere provides REST APIs for all system functionality.  SiteWhere provides SDKs for many common device platforms including Android, iOS, Arduino, and any Java-capable platform such as Raspberry Pi rapidly accelerating the speed of innovation."
+eclipse/upm,https://github.com/eclipse/upm,,30,612,394,C++,UPM is a high level repository that provides software drivers for a wide variety of commonly used sensors and actuators. These software drivers interact with the underlying hardware platform through calls to MRAA APIs.
+esphome/esphome-core,https://github.com/esphome/esphome-core,☠️Type: Bug,7,552,113,C++,🚨 No longer used 🚨 - The C++ framework behind ESPHome
+eclipse/kura,https://github.com/eclipse/kura,,465,320,226,Java,Eclipse Kura™ project - http://eclipse.org/kura
+eclipse/hono,https://github.com/eclipse/hono,,217,275,90,Java,Eclipse Hono™ Project
+eclipse/ditto,https://github.com/eclipse/ditto,,6,146,52,Java,Eclipse Ditto Project
+eclipse/kapua,https://github.com/eclipse/kapua,,688,144,135,Java,
+mycontroller-org/mycontroller,https://github.com/mycontroller-org/mycontroller,,86,127,82,Java,The Open Source Controller
+enesbcs/rpieasy,https://github.com/enesbcs/rpieasy,,23,44,10,Python,Easy MultiSensor device based on Raspberry PI
+klausahrenberg/WThermostatBeca,https://github.com/klausahrenberg/WThermostatBeca,,3,81,18,C++,Replaces original Tuya firmware on Beca thermostat with ESP8266 wifi module
+quickbird-uk/QuickbirdUWPDashboard,https://github.com/quickbird-uk/QuickbirdUWPDashboard,,13,19,5,C#,Quickbird UWP App and Server
+thingsboard/thingsboard,https://github.com/thingsboard/thingsboard,,3,5183,1756,Java,"Open-source IoT Platform - Device management, data collection, processing and visualization."
+cesanta/mongoose-os,https://github.com/cesanta/mongoose-os,,7,1929,383,C,"Mongoose OS - an IoT Firmware Development Framework. Supported microcontrollers: ESP32, ESP8266, CC3220, CC3200, STM32F4, STM32L4, STM32F7. Amazon AWS IoT, Microsoft Azure, Google IoT Core integrated. Code in C or JavaScript."
+mainflux/mainflux,https://github.com/mainflux/mainflux,,66,796,278,Go,Industrial IoT Messaging and Device Management Platform
+DexterInd/GrovePi,https://github.com/DexterInd/GrovePi,problems,19,397,418,Python,GrovePi is an open source platform for connecting Grove Sensors to the Raspberry Pi.
+freedomotic/freedomotic,https://github.com/freedomotic/freedomotic,,21,313,476,Java,Open IoT Framework
+grodansparadis/vscp,https://github.com/grodansparadis/vscp,,42,32,16,C++,VSCP (Very Simple Control Protocol) IoT/m2m framework
+foss-for-synopsys-dwc-arc-processors/embarc_osp,https://github.com/foss-for-synopsys-dwc-arc-processors/embarc_osp,,9,31,38,C,embARC Open Software Platform (OSP) - An embedded software distribution for IoT and other embedded applications for ARC
+vapor-ware/synse-server,https://github.com/vapor-ware/synse-server,,21,23,8,Python,An HTTP API for the monitoring and control of physical and virtual devices
+domoticz/domoticz,https://github.com/domoticz/domoticz,,4,2500,942,C,Open source Home Automation System
+home-assistant/appdaemon,https://github.com/home-assistant/appdaemon,,29,417,293,Python, Python Apps for Home Automation 

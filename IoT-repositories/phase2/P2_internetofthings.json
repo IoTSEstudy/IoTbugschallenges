@@ -1,0 +1,642 @@
+[
+    {
+        "full-name": "home-assistant/home-assistant",
+        "URL": "https://github.com/home-assistant/home-assistant",
+        "Data-Points-Count": 236,
+        "stars": 31665,
+        "forks": 9549,
+        "language": "Python",
+        "is-fork": false,
+        "description": ":house_with_garden: Open source home automation that puts local control and privacy first"
+    },
+    {
+        "full-name": "hybridgroup/gobot",
+        "URL": "https://github.com/hybridgroup/gobot",
+        "Data-Points-Count": 28,
+        "stars": 6253,
+        "forks": 780,
+        "language": "Go",
+        "is-fork": false,
+        "description": "Golang framework for robotics, drones, and the Internet of Things (IoT)"
+    },
+    {
+        "full-name": "jerryscript-project/jerryscript",
+        "URL": "https://github.com/jerryscript-project/jerryscript",
+        "Data-Points-Count": 1143,
+        "stars": 3915,
+        "forks": 463,
+        "language": "C",
+        "is-fork": false,
+        "description": "Ultra-lightweight JavaScript engine for the Internet of Things."
+    },
+    {
+        "full-name": "hybridgroup/cylon",
+        "URL": "https://github.com/hybridgroup/cylon",
+        "Data-Points-Count": 3,
+        "stars": 3676,
+        "forks": 339,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "JavaScript framework for robotics, drones, and the Internet of Things (IoT)"
+    },
+    {
+        "full-name": "blynkkk/blynk-library",
+        "URL": "https://github.com/blynkkk/blynk-library",
+        "Data-Points-Count": 67,
+        "stars": 2554,
+        "forks": 732,
+        "language": "C++",
+        "is-fork": false,
+        "description": "Blynk library for embedded hardware. Works with Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, Energia, ARM mbed, etc."
+    },
+    {
+        "full-name": "openthread/openthread",
+        "URL": "https://github.com/openthread/openthread",
+        "Data-Points-Count": 1138,
+        "stars": 2106,
+        "forks": 666,
+        "language": "C++",
+        "is-fork": false,
+        "description": "OpenThread released by Google is an open-source implementation of the Thread networking protocol"
+    },
+    {
+        "full-name": "gioblu/PJON",
+        "URL": "https://github.com/gioblu/PJON",
+        "Data-Points-Count": 65,
+        "stars": 1915,
+        "forks": 189,
+        "language": "C++",
+        "is-fork": false,
+        "description": "With PJON you build networks of devices for free with no need of a cloud service or a centralised platform you don’t fully control."
+    },
+    {
+        "full-name": "balloob/pychromecast",
+        "URL": "https://github.com/balloob/pychromecast",
+        "Data-Points-Count": 2,
+        "stars": 1888,
+        "forks": 267,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Library for Python 3 to communicate with the Google Chromecast."
+    },
+    {
+        "full-name": "blynkkk/blynk-server",
+        "URL": "https://github.com/blynkkk/blynk-server",
+        "Data-Points-Count": 300,
+        "stars": 1717,
+        "forks": 616,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Blynk is an Internet of Things Platform aimed to simplify building mobile and web applications for the Internet of Things. Easily connect 400+ hardware models like Arduino, ESP8266, ESP32, Raspberry Pi and similar MCUs and drag-n-drop IOT mobile apps for iOS and Android in 5 minutes"
+    },
+    {
+        "full-name": "eclipse/paho.mqtt.android",
+        "URL": "https://github.com/eclipse/paho.mqtt.android",
+        "Data-Points-Count": 87,
+        "stars": 1716,
+        "forks": 538,
+        "language": "Java",
+        "is-fork": false,
+        "description": "MQTT Android"
+    },
+    {
+        "full-name": "SmartThingsCommunity/SmartThingsPublic",
+        "URL": "https://github.com/SmartThingsCommunity/SmartThingsPublic",
+        "Data-Points-Count": 0,
+        "stars": 1528,
+        "forks": 66241,
+        "language": "Groovy",
+        "is-fork": false,
+        "description": "SmartThings open-source DeviceTypeHandlers and SmartApps code"
+    },
+    {
+        "full-name": "eclipse/paho.mqtt.java",
+        "URL": "https://github.com/eclipse/paho.mqtt.java",
+        "Data-Points-Count": 123,
+        "stars": 1153,
+        "forks": 569,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Eclipse Paho Java MQTT client library.  Paho is an Eclipse IoT project."
+    },
+    {
+        "full-name": "SmingHub/Sming",
+        "URL": "https://github.com/SmingHub/Sming",
+        "Data-Points-Count": 61,
+        "stars": 1129,
+        "forks": 322,
+        "language": "C++",
+        "is-fork": false,
+        "description": "Sming - Open Source framework for high efficiency native ESP8266 development"
+    },
+    {
+        "full-name": "eclipse/paho.mqtt.golang",
+        "URL": "https://github.com/eclipse/paho.mqtt.golang",
+        "Data-Points-Count": 29,
+        "stars": 1113,
+        "forks": 286,
+        "language": "Go",
+        "is-fork": false,
+        "description": null
+    },
+    {
+        "full-name": "brocaar/chirpstack-network-server",
+        "URL": "https://github.com/brocaar/chirpstack-network-server",
+        "Data-Points-Count": 14,
+        "stars": 1103,
+        "forks": 409,
+        "language": "Go",
+        "is-fork": false,
+        "description": "ChirpStack Network Server is an open-source LoRaWAN network-server."
+    },
+    {
+        "full-name": "eclipse/paho.mqtt.python",
+        "URL": "https://github.com/eclipse/paho.mqtt.python",
+        "Data-Points-Count": 13,
+        "stars": 1008,
+        "forks": 414,
+        "language": "Python",
+        "is-fork": false,
+        "description": "paho.mqtt.python"
+    },
+    {
+        "full-name": "tonyofrancis/Fetch",
+        "URL": "https://github.com/tonyofrancis/Fetch",
+        "Data-Points-Count": 53,
+        "stars": 882,
+        "forks": 162,
+        "language": "Java",
+        "is-fork": false,
+        "description": "The best file downloader library for Android"
+    },
+    {
+        "full-name": "eclipse/smarthome",
+        "URL": "https://github.com/eclipse/smarthome",
+        "Data-Points-Count": 589,
+        "stars": 857,
+        "forks": 847,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Eclipse SmartHome™ project"
+    },
+    {
+        "full-name": "iotaledger/iota.js",
+        "URL": "https://github.com/iotaledger/iota.js",
+        "Data-Points-Count": 0,
+        "stars": 799,
+        "forks": 266,
+        "language": "TypeScript",
+        "is-fork": false,
+        "description": "IOTA JavaScript monorepo"
+    },
+    {
+        "full-name": "eclipse/paho.mqtt.c",
+        "URL": "https://github.com/eclipse/paho.mqtt.c",
+        "Data-Points-Count": 67,
+        "stars": 753,
+        "forks": 539,
+        "language": "C",
+        "is-fork": false,
+        "description": "An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS."
+    },
+    {
+        "full-name": "eclipse/paho.mqtt.embedded-c",
+        "URL": "https://github.com/eclipse/paho.mqtt.embedded-c",
+        "Data-Points-Count": 19,
+        "stars": 676,
+        "forks": 455,
+        "language": "C",
+        "is-fork": false,
+        "description": "Paho MQTT C client library for embedded systems.  Paho is an Eclipse IoT project (https://iot.eclipse.org/)"
+    },
+    {
+        "full-name": "ggravlingen/pytradfri",
+        "URL": "https://github.com/ggravlingen/pytradfri",
+        "Data-Points-Count": 4,
+        "stars": 663,
+        "forks": 112,
+        "language": "Python",
+        "is-fork": false,
+        "description": "IKEA Trådfri/Tradfri API. Control and observe your lights from Python. Examples available. On pypi. Sans-io."
+    },
+    {
+        "full-name": "sitewhere/sitewhere",
+        "URL": "https://github.com/sitewhere/sitewhere",
+        "Data-Points-Count": 144,
+        "stars": 619,
+        "forks": 275,
+        "language": "Java",
+        "is-fork": false,
+        "description": "SiteWhere is an industrial strength open-source application enablement platform for the Internet of Things (IoT). It provides a multi-tenant microservice-based infrastructure that includes device/asset management, data ingestion, big-data storage, and integration through a modern, scalable architecture.  SiteWhere provides REST APIs for all system functionality.  SiteWhere provides SDKs for many common device platforms including Android, iOS, Arduino, and any Java-capable platform such as Raspberry Pi rapidly accelerating the speed of innovation."
+    },
+    {
+        "full-name": "eclipse/upm",
+        "URL": "https://github.com/eclipse/upm",
+        "Data-Points-Count": 30,
+        "stars": 612,
+        "forks": 394,
+        "language": "C++",
+        "is-fork": false,
+        "description": "UPM is a high level repository that provides software drivers for a wide variety of commonly used sensors and actuators. These software drivers interact with the underlying hardware platform through calls to MRAA APIs."
+    },
+    {
+        "full-name": "esphome/esphome-core",
+        "URL": "https://github.com/esphome/esphome-core",
+        "Data-Points-Count": 0,
+        "stars": 552,
+        "forks": 113,
+        "language": "C++",
+        "is-fork": false,
+        "description": "🚨 No longer used 🚨 - The C++ framework behind ESPHome"
+    },
+    {
+        "full-name": "eclipse/californium",
+        "URL": "https://github.com/eclipse/californium",
+        "Data-Points-Count": 53,
+        "stars": 424,
+        "forks": 257,
+        "language": "Java",
+        "is-fork": false,
+        "description": "CoAP/DTLS Java Implementation "
+    },
+    {
+        "full-name": "TheThingsNetwork/ttn",
+        "URL": "https://github.com/TheThingsNetwork/ttn",
+        "Data-Points-Count": 49,
+        "stars": 416,
+        "forks": 267,
+        "language": "Go",
+        "is-fork": false,
+        "description": "The Things Network Stack V2"
+    },
+    {
+        "full-name": "eclipse/leshan",
+        "URL": "https://github.com/eclipse/leshan",
+        "Data-Points-Count": 61,
+        "stars": 382,
+        "forks": 272,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Eclipse Leshan is an OMA Lightweight M2M (LWM2M) implementation in Java."
+    },
+    {
+        "full-name": "iotexproject/iotex-core",
+        "URL": "https://github.com/iotexproject/iotex-core",
+        "Data-Points-Count": 92,
+        "stars": 359,
+        "forks": 157,
+        "language": "Go",
+        "is-fork": false,
+        "description": "Official implementation of IoTeX blockchain protocol in Go."
+    },
+    {
+        "full-name": "eclipse/kura",
+        "URL": "https://github.com/eclipse/kura",
+        "Data-Points-Count": 465,
+        "stars": 320,
+        "forks": 226,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Eclipse Kura™ project - http://eclipse.org/kura"
+    },
+    {
+        "full-name": "iotaledger/iota.py",
+        "URL": "https://github.com/iotaledger/iota.py",
+        "Data-Points-Count": 31,
+        "stars": 318,
+        "forks": 124,
+        "language": "Python",
+        "is-fork": false,
+        "description": "PyOTA: The IOTA Python API Library"
+    },
+    {
+        "full-name": "freedomotic/freedomotic",
+        "URL": "https://github.com/freedomotic/freedomotic",
+        "Data-Points-Count": 21,
+        "stars": 313,
+        "forks": 475,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Open IoT Framework"
+    },
+    {
+        "full-name": "eclipse/hono",
+        "URL": "https://github.com/eclipse/hono",
+        "Data-Points-Count": 217,
+        "stars": 275,
+        "forks": 90,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Eclipse Hono™ Project"
+    },
+    {
+        "full-name": "openhab/openhab-core",
+        "URL": "https://github.com/openhab/openhab-core",
+        "Data-Points-Count": 54,
+        "stars": 253,
+        "forks": 191,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Core framework of openHAB"
+    },
+    {
+        "full-name": "hivemq/hivemq-mqtt-client",
+        "URL": "https://github.com/hivemq/hivemq-mqtt-client",
+        "Data-Points-Count": 19,
+        "stars": 242,
+        "forks": 44,
+        "language": "Java",
+        "is-fork": false,
+        "description": "HiveMQ MQTT Client is a MQTT 5.0 and MQTT 3.1.1 compatible and feature-rich high-performance Java client library with different API flavours and backpressure support"
+    },
+    {
+        "full-name": "eclipse/hawkbit",
+        "URL": "https://github.com/eclipse/hawkbit",
+        "Data-Points-Count": 26,
+        "stars": 229,
+        "forks": 93,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Eclipse hawkBit™"
+    },
+    {
+        "full-name": "home-assistant/netdisco",
+        "URL": "https://github.com/home-assistant/netdisco",
+        "Data-Points-Count": 0,
+        "stars": 228,
+        "forks": 152,
+        "language": "Python",
+        "is-fork": false,
+        "description": ":mag_right: Python library to scan local network for services and devices."
+    },
+    {
+        "full-name": "iotaledger/iota.go",
+        "URL": "https://github.com/iotaledger/iota.go",
+        "Data-Points-Count": 0,
+        "stars": 213,
+        "forks": 81,
+        "language": "Go",
+        "is-fork": false,
+        "description": "IOTA Go API Library. Find documentation on https://docs.iota.org/"
+    },
+    {
+        "full-name": "dontsovcmc/waterius",
+        "URL": "https://github.com/dontsovcmc/waterius",
+        "Data-Points-Count": 18,
+        "stars": 199,
+        "forks": 42,
+        "language": "C++",
+        "is-fork": false,
+        "description": "Передача показаний воды по Wi-Fi. Watermeter Wi-Fi transmitter."
+    },
+    {
+        "full-name": "OpenMobileAlliance/OMA_LwM2M_for_Developers",
+        "URL": "https://github.com/OpenMobileAlliance/OMA_LwM2M_for_Developers",
+        "Data-Points-Count": 14,
+        "stars": 179,
+        "forks": 39,
+        "language": null,
+        "is-fork": false,
+        "description": "Public - OMA LightweightM2M specifications and LwM2M Developer Tool Kit for public review."
+    },
+    {
+        "full-name": "EnMasseProject/enmasse",
+        "URL": "https://github.com/EnMasseProject/enmasse",
+        "Data-Points-Count": 0,
+        "stars": 163,
+        "forks": 75,
+        "language": "Java",
+        "is-fork": false,
+        "description": "EnMasse - Self-service messaging on Kubernetes and OpenShift"
+    },
+    {
+        "full-name": "motom001/DoorPi",
+        "URL": "https://github.com/motom001/DoorPi",
+        "Data-Points-Count": 42,
+        "stars": 155,
+        "forks": 68,
+        "language": "Python",
+        "is-fork": false,
+        "description": "OpenSource VoIP Door-Intercomstation"
+    },
+    {
+        "full-name": "SMPyBandits/SMPyBandits",
+        "URL": "https://github.com/SMPyBandits/SMPyBandits",
+        "Data-Points-Count": 34,
+        "stars": 150,
+        "forks": 30,
+        "language": "Jupyter Notebook",
+        "is-fork": false,
+        "description": "🔬 Research Framework for Single and Multi-Players 🎰 Multi-Arms Bandits (MAB) Algorithms, implementing all the state-of-the-art algorithms for single-player (UCB, KL-UCB, Thompson...) and multi-player (MusicalChair, MEGA, rhoRand, MCTop/RandTopM etc).. Available on PyPI: https://pypi.org/project/SMPyBandits/ and documentation on"
+    },
+    {
+        "full-name": "eclipse/ditto",
+        "URL": "https://github.com/eclipse/ditto",
+        "Data-Points-Count": 6,
+        "stars": 146,
+        "forks": 52,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Eclipse Ditto Project"
+    },
+    {
+        "full-name": "eclipse/kapua",
+        "URL": "https://github.com/eclipse/kapua",
+        "Data-Points-Count": 688,
+        "stars": 144,
+        "forks": 135,
+        "language": "Java",
+        "is-fork": false,
+        "description": null
+    },
+    {
+        "full-name": "eclipse/vorto",
+        "URL": "https://github.com/eclipse/vorto",
+        "Data-Points-Count": 268,
+        "stars": 141,
+        "forks": 95,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Vorto Project"
+    },
+    {
+        "full-name": "mycontroller-org/mycontroller",
+        "URL": "https://github.com/mycontroller-org/mycontroller",
+        "Data-Points-Count": 86,
+        "stars": 127,
+        "forks": 82,
+        "language": "Java",
+        "is-fork": false,
+        "description": "The Open Source Controller"
+    },
+    {
+        "full-name": "TheThingsNetwork/arduino-device-lib",
+        "URL": "https://github.com/TheThingsNetwork/arduino-device-lib",
+        "Data-Points-Count": 17,
+        "stars": 126,
+        "forks": 78,
+        "language": "C",
+        "is-fork": false,
+        "description": "Arduino Library for TTN Devices"
+    },
+    {
+        "full-name": "iotaledger/iota-java",
+        "URL": "https://github.com/iotaledger/iota-java",
+        "Data-Points-Count": 2,
+        "stars": 122,
+        "forks": 80,
+        "language": "Java",
+        "is-fork": false,
+        "description": "IOTA Java API Library. Find documentation on"
+    },
+    {
+        "full-name": "openhab/openhab-ios",
+        "URL": "https://github.com/openhab/openhab-ios",
+        "Data-Points-Count": 61,
+        "stars": 120,
+        "forks": 100,
+        "language": "Swift",
+        "is-fork": false,
+        "description": "The repository of the iOS client"
+    },
+    {
+        "full-name": "openthread/ot-br-posix",
+        "URL": "https://github.com/openthread/ot-br-posix",
+        "Data-Points-Count": 54,
+        "stars": 110,
+        "forks": 70,
+        "language": "C++",
+        "is-fork": false,
+        "description": "OpenThread Border Router, a Thread border router for POSIX-based platforms."
+    },
+    {
+        "full-name": "jofrfu/tinyTPU",
+        "URL": "https://github.com/jofrfu/tinyTPU",
+        "Data-Points-Count": 3,
+        "stars": 100,
+        "forks": 21,
+        "language": "VHDL",
+        "is-fork": false,
+        "description": "Implementation of a Tensor Processing Unit for embedded systems and the IoT."
+    },
+    {
+        "full-name": "danobot/entity-controller",
+        "URL": "https://github.com/danobot/entity-controller",
+        "Data-Points-Count": 4,
+        "stars": 95,
+        "forks": 25,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Intelligent entity controller for Home Assistant for controlling devices with timers, overrides, custom service parameters and scripts, and sun-based time restrictions."
+    },
+    {
+        "full-name": "ConnectivityFoundry/AwaLWM2M",
+        "URL": "https://github.com/ConnectivityFoundry/AwaLWM2M",
+        "Data-Points-Count": 71,
+        "stars": 90,
+        "forks": 56,
+        "language": "C",
+        "is-fork": false,
+        "description": "Awa LWM2M is an implementation of the OMA Lightweight M2M protocol in C."
+    },
+    {
+        "full-name": "thibault-martinez/iota.lib.cpp",
+        "URL": "https://github.com/thibault-martinez/iota.lib.cpp",
+        "Data-Points-Count": 0,
+        "stars": 86,
+        "forks": 23,
+        "language": "C++",
+        "is-fork": false,
+        "description": "IOTA C++ Library"
+    },
+    {
+        "full-name": "TelluIoT/ThingML",
+        "URL": "https://github.com/TelluIoT/ThingML",
+        "Data-Points-Count": 30,
+        "stars": 64,
+        "forks": 25,
+        "language": "Java",
+        "is-fork": false,
+        "description": "The ThingML modelling language"
+    },
+    {
+        "full-name": "picatz/shodanz",
+        "URL": "https://github.com/picatz/shodanz",
+        "Data-Points-Count": 5,
+        "stars": 61,
+        "forks": 14,
+        "language": "Ruby",
+        "is-fork": false,
+        "description": "🔭 A modern, async Ruby gem for Shodan, the world's first search engine for Internet-connected devices."
+    },
+    {
+        "full-name": "TheThingsNetwork/docs",
+        "URL": "https://github.com/TheThingsNetwork/docs",
+        "Data-Points-Count": 4,
+        "stars": 51,
+        "forks": 226,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "Documentation for The Things Network"
+    },
+    {
+        "full-name": "LSIR/gsn",
+        "URL": "https://github.com/LSIR/gsn",
+        "Data-Points-Count": 11,
+        "stars": 50,
+        "forks": 40,
+        "language": "Java",
+        "is-fork": false,
+        "description": "Global Sensor Networks"
+    },
+    {
+        "full-name": "enesbcs/rpieasy",
+        "URL": "https://github.com/enesbcs/rpieasy",
+        "Data-Points-Count": 23,
+        "stars": 44,
+        "forks": 10,
+        "language": "Python",
+        "is-fork": false,
+        "description": "Easy MultiSensor device based on Raspberry PI"
+    },
+    {
+        "full-name": "snuspl/mist",
+        "URL": "https://github.com/snuspl/mist",
+        "Data-Points-Count": 48,
+        "stars": 16,
+        "forks": 3,
+        "language": "Java",
+        "is-fork": false,
+        "description": "MIST: High-performance IoT Stream Processing"
+    },
+    {
+        "full-name": "arces-wot/SEPA",
+        "URL": "https://github.com/arces-wot/SEPA",
+        "Data-Points-Count": 10,
+        "stars": 16,
+        "forks": 4,
+        "language": "Java",
+        "is-fork": false,
+        "description": "A JAVA implementation of the SPARQL Event Processing Architecture including the engine, APIs and tools"
+    },
+    {
+        "full-name": "levindoneto/IoT-Modelling-Tool",
+        "URL": "https://github.com/levindoneto/IoT-Modelling-Tool",
+        "Data-Points-Count": 24,
+        "stars": 13,
+        "forks": 1,
+        "language": "JavaScript",
+        "is-fork": false,
+        "description": "IoT Modelling Tool is a platform which allows users to have their own devices and components modeled in order to represent and manage a physical environment."
+    },
+    {
+        "full-name": "SKKU-ESLAB/ANT",
+        "URL": "https://github.com/SKKU-ESLAB/ANT",
+        "Data-Points-Count": 38,
+        "stars": 12,
+        "forks": 8,
+        "language": "C",
+        "is-fork": false,
+        "description": "ANT(AI-based Networked Things) Framework"
+    }
+]

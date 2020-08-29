@@ -1,0 +1,43 @@
+[
+    {
+        "full-name": "microsoft/EdgeML",
+        "URL": "https://github.com/microsoft/EdgeML",
+        "Data-Points-Count": 0,
+        "stars": 769,
+        "forks": 205,
+        "language": "C++",
+        "is-fork": false,
+        "description": "This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India."
+    },
+    {
+        "full-name": "opendata-stuttgart/sensors-software",
+        "URL": "https://github.com/opendata-stuttgart/sensors-software",
+        "Data-Points-Count": 25,
+        "stars": 382,
+        "forks": 224,
+        "language": "C++",
+        "is-fork": false,
+        "description": "sourcecode for reading sensor data"
+    },
+    {
+        "full-name": "noddos/noddos",
+        "URL": "https://github.com/noddos/noddos",
+        "Data-Points-Count": 14,
+        "stars": 73,
+        "forks": 14,
+        "language": "C++",
+        "is-fork": false,
+        "description": "Noddos client",
+        "isiot":"uncertain: A device-aware firewall"
+    },
+    {
+        "full-name": "casanet/casanet-server",
+        "URL": "https://github.com/casanet/casanet-server",
+        "Data-Points-Count": 11,
+        "stars": 32,
+        "forks": 8,
+        "language": "TypeScript",
+        "is-fork": false,
+        "description": "Open-source server and dashboard to control IoT devices in a local home network"
+    }
+]
