@@ -1,6 +1,6 @@
-# Replication Package of IoT Bugs and Development Challenges
+# Artifact Package of IoT Bugs and Development Challenges
 
-This repository includes all data to replicate the "IoT Bugs and Development Challenges" study.
+This repository includes all the collected and analyzed data for "IoT Bugs and Development Challenges" study.
 
 
 ## Subject Repositories
