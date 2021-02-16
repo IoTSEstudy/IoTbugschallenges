@@ -1,6 +1,7 @@
 # Artifact Package of "IoT Bugs and Development Challenges" Paper (ICSE 2021)
 
 Paper pre-print: http://ece.ubc.ca/~amesbah/resources/papers/iot-icse21.pdf 
+
 This repository includes all the collected and analyzed data for this study.
 
 
