@@ -39,7 +39,9 @@ In the **survey directory**, there are two files:
 
 ## Authors
 Amir Makhshari: [Linkedin](https://www.linkedin.com/in/amirosein/), [Twitter](https://twitter.com/makhshari)
+
 [Ali Mesbah](http://ece.ubc.ca/~amesbah/): [Linkedin](https://www.linkedin.com/in/ali-mesbah-4646102/), [Twitter](https://twitter.com/amesbah)
+
 
 IoT Research at [Salt Lab](http://salt.ece.ubc.ca/)
 
