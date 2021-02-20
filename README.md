@@ -35,4 +35,12 @@ In the **survey directory**, there are two files:
 - survey.pdf: This is a PDF version of the online survey distributed to IoT developers.
 - Survey_Valid_responses.csv : This CSV file includes all the raw collected data from the survey. The incomplete and invalid responses have been removed.
 
-**Note**: All the publicly available user data are anonymous.
+**Note**: All the publicly available data from participants are anonymous.
+
+## Authors
+Amir Makhshari: [Linkedin](https://www.linkedin.com/in/amirosein/), [Twitter](https://twitter.com/makhshari)
+[Ali Mesbah](http://ece.ubc.ca/~amesbah/): [Linkedin](https://www.linkedin.com/in/ali-mesbah-4646102/), [Twitter](https://twitter.com/amesbah)
+
+IoT Research at [Salt Lab](http://salt.ece.ubc.ca/)
+
+
